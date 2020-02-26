@@ -1,0 +1,9114 @@
+msgid "PROPERTY_TRANSLATION#1"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2"
+msgstr "Efektivni broj piksela"
+
+msgid "PROPERTY_TRANSLATION#3"
+msgstr "pravni broj pixela"
+
+msgid "PROPERTY_TRANSLATION#4"
+msgstr "Tip senzora"
+
+msgid "PROPERTY_TRANSLATION#5"
+msgstr "Veličina senzora"
+
+msgid "PROPERTY_TRANSLATION#6"
+msgstr "ISO vrijednost"
+
+msgid "PROPERTY_TRANSLATION#7"
+msgstr "Zoom-raspon (35 mm)"
+
+msgid "PROPERTY_TRANSLATION#8"
+msgstr "Digitalni zoom"
+
+msgid "PROPERTY_TRANSLATION#9"
+msgstr "Stabilizator slike"
+
+msgid "PROPERTY_TRANSLATION#10"
+msgstr "Ručni fokus"
+
+msgid "PROPERTY_TRANSLATION#11"
+msgstr "Autofokus"
+
+msgid "PROPERTY_TRANSLATION#12"
+msgstr "Makro"
+
+msgid "PROPERTY_TRANSLATION#13"
+msgstr "Tražilo"
+
+msgid "PROPERTY_TRANSLATION#14"
+msgstr "LCD"
+
+msgid "PROPERTY_TRANSLATION#15"
+msgstr "Razina bijele boje"
+
+msgid "PROPERTY_TRANSLATION#16"
+msgstr "Fino podešavanje razine bijele boje"
+
+msgid "PROPERTY_TRANSLATION#17"
+msgstr "Otvor blende"
+
+msgid "PROPERTY_TRANSLATION#18"
+msgstr "Raspon brzine zatvarača"
+
+msgid "PROPERTY_TRANSLATION#19"
+msgstr "Ugrađena bljeskalica"
+
+msgid "PROPERTY_TRANSLATION#20"
+msgstr "Vanjska bjeskalica"
+
+msgid "PROPERTY_TRANSLATION#21"
+msgstr "Bljeskalice"
+
+msgid "PROPERTY_TRANSLATION#22"
+msgstr "Ekspozicija"
+
+msgid "PROPERTY_TRANSLATION#23"
+msgstr "Autofokus"
+
+msgid "PROPERTY_TRANSLATION#24"
+msgstr "Podešavanje zatvarača"
+
+msgid "PROPERTY_TRANSLATION#25"
+msgstr "Odabir brzine zatvarača"
+
+msgid "PROPERTY_TRANSLATION#26"
+msgstr "Neprekidno okidanje"
+
+msgid "PROPERTY_TRANSLATION#27"
+msgstr "Snimanje filma"
+
+msgid "PROPERTY_TRANSLATION#28"
+msgstr "Daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#29"
+msgstr "Navoji za stative"
+
+msgid "PROPERTY_TRANSLATION#30"
+msgstr "Samookidač"
+
+msgid "PROPERTY_TRANSLATION#31"
+msgstr "Utor memorijske kartice"
+
+msgid "PROPERTY_TRANSLATION#32"
+msgstr "Kompresijski format"
+
+msgid "PROPERTY_TRANSLATION#33"
+msgstr "Vrsta baterije"
+
+msgid "PROPERTY_TRANSLATION#34"
+msgstr "Video izlaz"
+
+msgid "PROPERTY_TRANSLATION#35"
+msgstr "USB"
+
+msgid "PROPERTY_TRANSLATION#36"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#37"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#38"
+msgstr "Veličina baterije"
+
+msgid "PROPERTY_TRANSLATION#39"
+msgstr "Veličina filtera"
+
+msgid "PROPERTY_TRANSLATION#40"
+msgstr "Zoom"
+
+msgid "PROPERTY_TRANSLATION#41"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#42"
+msgstr "Komentar"
+
+msgid "PROPERTY_TRANSLATION#43"
+msgstr "Unutrašnja memorija"
+
+msgid "PROPERTY_TRANSLATION#44"
+msgstr "Materijal kućišta"
+
+msgid "PROPERTY_TRANSLATION#45"
+msgstr "Operativni sustav"
+
+msgid "PROPERTY_TRANSLATION#46"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#47"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#48"
+msgstr "brzina ispisa"
+
+msgid "PROPERTY_TRANSLATION#49"
+msgstr "brzina učitavanje"
+
+msgid "PROPERTY_TRANSLATION#50"
+msgstr "brzina"
+
+msgid "PROPERTY_TRANSLATION#51"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#52"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#53"
+msgstr "Napon"
+
+msgid "PROPERTY_TRANSLATION#54"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#55"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#56"
+msgstr "Vrijeme punjenja"
+
+msgid "PROPERTY_TRANSLATION#57"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#58"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#59"
+msgstr "Unutarnja veličina (D x D x Š)"
+
+msgid "PROPERTY_TRANSLATION#60"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#61"
+msgstr "Mogućnost zakljućivanja"
+
+msgid "PROPERTY_TRANSLATION#62"
+msgstr "Vanjska veličina (D x D x Š)"
+
+msgid "PROPERTY_TRANSLATION#63"
+msgstr "Prijenos"
+
+msgid "PROPERTY_TRANSLATION#64"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#65"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#66"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#67"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#68"
+msgstr "podržane kartice"
+
+msgid "PROPERTY_TRANSLATION#69"
+msgstr "Priključak"
+
+msgid "PROPERTY_TRANSLATION#70"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#71"
+msgstr "kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#72"
+msgstr "Žarišna daljina"
+
+msgid "PROPERTY_TRANSLATION#73"
+msgstr "kompatibilna"
+
+msgid "PROPERTY_TRANSLATION#74"
+msgstr "Izrada"
+
+msgid "PROPERTY_TRANSLATION#75"
+msgstr "Veličina filtera"
+
+msgid "PROPERTY_TRANSLATION#76"
+msgstr "apertura raspon"
+
+msgid "PROPERTY_TRANSLATION#77"
+msgstr "minimačni fokus udaljenost"
+
+msgid "PROPERTY_TRANSLATION#78"
+msgstr "Uvećanje"
+
+msgid "PROPERTY_TRANSLATION#79"
+msgstr "Vidljivi kut"
+
+msgid "PROPERTY_TRANSLATION#80"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#81"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#82"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#83"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#84"
+msgstr "Veličina filtera"
+
+msgid "PROPERTY_TRANSLATION#85"
+msgstr "Žarišna daljina"
+
+msgid "PROPERTY_TRANSLATION#86"
+msgstr "Izrada"
+
+msgid "PROPERTY_TRANSLATION#87"
+msgstr "apertura raspon"
+
+msgid "PROPERTY_TRANSLATION#88"
+msgstr "minimačni fokus udaljenost"
+
+msgid "PROPERTY_TRANSLATION#89"
+msgstr "Uvećanje"
+
+msgid "PROPERTY_TRANSLATION#90"
+msgstr "Vidljivi kut"
+
+msgid "PROPERTY_TRANSLATION#91"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#92"
+msgstr "promjer"
+
+msgid "PROPERTY_TRANSLATION#93"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#94"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#95"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#96"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#97"
+msgstr "Interna cache"
+
+msgid "PROPERTY_TRANSLATION#98"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#99"
+msgstr "Tip povezivosti"
+
+msgid "PROPERTY_TRANSLATION#100"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#101"
+msgstr "Broj tipke"
+
+msgid "PROPERTY_TRANSLATION#102"
+msgstr "Vidljivi kut"
+
+msgid "PROPERTY_TRANSLATION#103"
+msgstr "Mjerenje udaljenosti"
+
+msgid "PROPERTY_TRANSLATION#104"
+msgstr "Fotometrija"
+
+msgid "PROPERTY_TRANSLATION#105"
+msgstr "TTL sustav"
+
+msgid "PROPERTY_TRANSLATION#106"
+msgstr "Nagibna glava"
+
+msgid "PROPERTY_TRANSLATION#107"
+msgstr "Okretna glava"
+
+msgid "PROPERTY_TRANSLATION#108"
+msgstr "Zoom"
+
+msgid "PROPERTY_TRANSLATION#109"
+msgstr "vrijeme ponovnog punjenja"
+
+msgid "PROPERTY_TRANSLATION#110"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#111"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#112"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#113"
+msgstr "Glava za stativ"
+
+msgid "PROPERTY_TRANSLATION#114"
+msgstr "Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#115"
+msgstr "Libela"
+
+msgid "PROPERTY_TRANSLATION#116"
+msgstr "Glava za stativ"
+
+msgid "PROPERTY_TRANSLATION#117"
+msgstr "Podešavanje"
+
+msgid "PROPERTY_TRANSLATION#118"
+msgstr "minimalna veličina"
+
+msgid "PROPERTY_TRANSLATION#119"
+msgstr "Maksimalna visina"
+
+msgid "PROPERTY_TRANSLATION#120"
+msgstr "visina srednjeg stupa"
+
+msgid "PROPERTY_TRANSLATION#121"
+msgstr "veličina za dostavu"
+
+msgid "PROPERTY_TRANSLATION#122"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#123"
+msgstr "Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#124"
+msgstr "Podešavanje"
+
+msgid "PROPERTY_TRANSLATION#125"
+msgstr "Količina vode"
+
+msgid "PROPERTY_TRANSLATION#126"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#127"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#128"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#129"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#130"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#131"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#132"
+msgstr "Procesor"
+
+msgid "PROPERTY_TRANSLATION#133"
+msgstr "Optički pogon"
+
+msgid "PROPERTY_TRANSLATION#134"
+msgstr "Čitač kartice"
+
+msgid "PROPERTY_TRANSLATION#135"
+msgstr "Winchester"
+
+msgid "PROPERTY_TRANSLATION#136"
+msgstr "grafička kartica"
+
+msgid "PROPERTY_TRANSLATION#137"
+msgstr "mrežni priključak"
+
+msgid "PROPERTY_TRANSLATION#138"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#139"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#140"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#141"
+msgstr "Brzina"
+
+msgid "PROPERTY_TRANSLATION#142"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#143"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#144"
+msgstr "Broj portova"
+
+msgid "PROPERTY_TRANSLATION#145"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#146"
+msgstr "Brzina skeniranja"
+
+msgid "PROPERTY_TRANSLATION#147"
+msgstr "Maksimalna rezolucija"
+
+msgid "PROPERTY_TRANSLATION#148"
+msgstr "Maksimalna veličina skeniranja"
+
+msgid "PROPERTY_TRANSLATION#149"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#150"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#151"
+msgstr "Slide uvjeto"
+
+msgid "PROPERTY_TRANSLATION#152"
+msgstr "Dubina boja"
+
+msgid "PROPERTY_TRANSLATION#153"
+msgstr "ADF ( automatski feeder listova)"
+
+msgid "PROPERTY_TRANSLATION#154"
+msgstr "Podržani operacijski sustavi"
+
+msgid "PROPERTY_TRANSLATION#155"
+msgstr "Komentar"
+
+msgid "PROPERTY_TRANSLATION#156"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#157"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#158"
+msgstr "Max. brzina pisanja"
+
+msgid "PROPERTY_TRANSLATION#159"
+msgstr "Chipset"
+
+msgid "PROPERTY_TRANSLATION#160"
+msgstr "Integrirani zvuk"
+
+msgid "PROPERTY_TRANSLATION#161"
+msgstr "Integrirani video"
+
+msgid "PROPERTY_TRANSLATION#162"
+msgstr "Mrežni kontroler"
+
+msgid "PROPERTY_TRANSLATION#163"
+msgstr "Ostali integrirani alati"
+
+msgid "PROPERTY_TRANSLATION#164"
+msgstr "FSB podrška"
+
+msgid "PROPERTY_TRANSLATION#165"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#166"
+msgstr "Broj memorije"
+
+msgid "PROPERTY_TRANSLATION#167"
+msgstr "Utori za proširenje"
+
+msgid "PROPERTY_TRANSLATION#168"
+msgstr "Napajanje"
+
+msgid "PROPERTY_TRANSLATION#169"
+msgstr "Vrsta memorije"
+
+msgid "PROPERTY_TRANSLATION#170"
+msgstr "Unutarnji priključci"
+
+msgid "PROPERTY_TRANSLATION#171"
+msgstr "Vanjski priključci"
+
+msgid "PROPERTY_TRANSLATION#172"
+msgstr "Sučelje procesora"
+
+msgid "PROPERTY_TRANSLATION#173"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#174"
+msgstr "osjetljivost"
+
+msgid "PROPERTY_TRANSLATION#175"
+msgstr "Broj tipki"
+
+msgid "PROPERTY_TRANSLATION#176"
+msgstr "Scroll"
+
+msgid "PROPERTY_TRANSLATION#177"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#178"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#179"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#180"
+msgstr "Osjetljivost"
+
+msgid "PROPERTY_TRANSLATION#181"
+msgstr "Broj tipki"
+
+msgid "PROPERTY_TRANSLATION#182"
+msgstr "Scroll (rola)"
+
+msgid "PROPERTY_TRANSLATION#183"
+msgstr "Bežična tehnologija"
+
+msgid "PROPERTY_TRANSLATION#184"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#185"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#186"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#187"
+msgstr "Multimedijalne opcije"
+
+msgid "PROPERTY_TRANSLATION#188"
+msgstr "Dodjela"
+
+msgid "PROPERTY_TRANSLATION#189"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#190"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#191"
+msgstr "broj unutrašnjih portova"
+
+msgid "PROPERTY_TRANSLATION#192"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#193"
+msgstr "broj vanjskih portova"
+
+msgid "PROPERTY_TRANSLATION#194"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#195"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#196"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#197"
+msgstr "Vrsta zvučnog sustava"
+
+msgid "PROPERTY_TRANSLATION#198"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#199"
+msgstr "Efektivna izvedba glazbe"
+
+msgid "PROPERTY_TRANSLATION#200"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#201"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#202"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#203"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#204"
+msgstr "Tehnologija hlađenja"
+
+msgid "PROPERTY_TRANSLATION#205"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#206"
+msgstr "Frekvencija"
+
+msgid "PROPERTY_TRANSLATION#207"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#208"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#209"
+msgstr "Ventilator"
+
+msgid "PROPERTY_TRANSLATION#210"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#211"
+msgstr "Promjer ventilatora"
+
+msgid "PROPERTY_TRANSLATION#212"
+msgstr "PFC (Power Factor Correction)"
+
+msgid "PROPERTY_TRANSLATION#213"
+msgstr "Tip jezgre"
+
+msgid "PROPERTY_TRANSLATION#214"
+msgstr "Cache veličina"
+
+msgid "PROPERTY_TRANSLATION#215"
+msgstr "FSB (Front Side Bus)"
+
+msgid "PROPERTY_TRANSLATION#216"
+msgstr "Rashladni ventilator"
+
+msgid "PROPERTY_TRANSLATION#217"
+msgstr "Brzina"
+
+msgid "PROPERTY_TRANSLATION#218"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#219"
+msgstr "Broj jezgri"
+
+msgid "PROPERTY_TRANSLATION#220"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#221"
+msgstr "Zahtjeci sustava"
+
+msgid "PROPERTY_TRANSLATION#222"
+msgstr "Poznati standardi"
+
+msgid "PROPERTY_TRANSLATION#223"
+msgstr "Daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#224"
+msgstr "capture svojstva"
+
+msgid "PROPERTY_TRANSLATION#225"
+msgstr "Oprema/softver"
+
+msgid "PROPERTY_TRANSLATION#226"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#227"
+msgstr "Način primljenja"
+
+msgid "PROPERTY_TRANSLATION#228"
+msgstr "Tip procesora"
+
+msgid "PROPERTY_TRANSLATION#229"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#230"
+msgstr "Brzina procesora"
+
+msgid "PROPERTY_TRANSLATION#231"
+msgstr "Brzina memorije"
+
+msgid "PROPERTY_TRANSLATION#232"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#233"
+msgstr "Brzina prijenosa"
+
+msgid "PROPERTY_TRANSLATION#234"
+msgstr "Veličina memorije"
+
+msgid "PROPERTY_TRANSLATION#235"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#236"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#237"
+msgstr "Rezolucija ekrana"
+
+msgid "PROPERTY_TRANSLATION#238"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#239"
+msgstr "Kapacitet tvrodg diska"
+
+msgid "PROPERTY_TRANSLATION#240"
+msgstr "Optički pogon"
+
+msgid "PROPERTY_TRANSLATION#241"
+msgstr "Raspodjela tipkovice"
+
+msgid "PROPERTY_TRANSLATION#242"
+msgstr "Operativni sustav"
+
+msgid "PROPERTY_TRANSLATION#243"
+msgstr "Vrsta baterije"
+
+msgid "PROPERTY_TRANSLATION#244"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#245"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#246"
+msgstr "Čitač kartice"
+
+msgid "PROPERTY_TRANSLATION#247"
+msgstr "Mreža"
+
+msgid "PROPERTY_TRANSLATION#248"
+msgstr "Vrsta ekrana"
+
+msgid "PROPERTY_TRANSLATION#249"
+msgstr "Vrsta procesora"
+
+msgid "PROPERTY_TRANSLATION#250"
+msgstr "FSB Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#251"
+msgstr "Maksimalno proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#252"
+msgstr "Brzina tvrdog diskia"
+
+msgid "PROPERTY_TRANSLATION#253"
+msgstr "Grafički kontroler memorije"
+
+msgid "PROPERTY_TRANSLATION#254"
+msgstr "Grafički kontroler"
+
+msgid "PROPERTY_TRANSLATION#255"
+msgstr "Chipset"
+
+msgid "PROPERTY_TRANSLATION#256"
+msgstr "Broj baterijskih ćelija"
+
+msgid "PROPERTY_TRANSLATION#257"
+msgstr "Kapacitet akumulatora"
+
+msgid "PROPERTY_TRANSLATION#258"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#259"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#260"
+msgstr "Audio utučnice"
+
+msgid "PROPERTY_TRANSLATION#261"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#262"
+msgstr "Broj utora"
+
+msgid "PROPERTY_TRANSLATION#263"
+msgstr "Kompatibilnost opertivnog sustava"
+
+msgid "PROPERTY_TRANSLATION#264"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#265"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#266"
+msgstr "Jačina svjetlosti"
+
+msgid "PROPERTY_TRANSLATION#267"
+msgstr "Kontrast"
+
+msgid "PROPERTY_TRANSLATION#268"
+msgstr "Prava rezolucija"
+
+msgid "PROPERTY_TRANSLATION#269"
+msgstr "Tehnologija"
+
+msgid "PROPERTY_TRANSLATION#270"
+msgstr "Dubina boje"
+
+msgid "PROPERTY_TRANSLATION#271"
+msgstr "Horizontalna frekvencija"
+
+msgid "PROPERTY_TRANSLATION#272"
+msgstr "Priključci- ulazna"
+
+msgid "PROPERTY_TRANSLATION#273"
+msgstr "Priključći- izlazna"
+
+msgid "PROPERTY_TRANSLATION#274"
+msgstr "Udaljenost projekcije"
+
+msgid "PROPERTY_TRANSLATION#275"
+msgstr "Nivo buke"
+
+msgid "PROPERTY_TRANSLATION#276"
+msgstr "Dimenzije"
+
+msgid "PROPERTY_TRANSLATION#277"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#278"
+msgstr "Podržana rezolucija računala"
+
+msgid "PROPERTY_TRANSLATION#279"
+msgstr "Proporcija slike"
+
+msgid "PROPERTY_TRANSLATION#280"
+msgstr "Rotacija"
+
+msgid "PROPERTY_TRANSLATION#281"
+msgstr "Korekcija trapeza"
+
+msgid "PROPERTY_TRANSLATION#282"
+msgstr "Video standard"
+
+msgid "PROPERTY_TRANSLATION#283"
+msgstr "Video ulaz"
+
+msgid "PROPERTY_TRANSLATION#284"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#285"
+msgstr "Kapacitet lampe"
+
+msgid "PROPERTY_TRANSLATION#286"
+msgstr "Život lampe"
+
+msgid "PROPERTY_TRANSLATION#287"
+msgstr "Optički zoom"
+
+msgid "PROPERTY_TRANSLATION#288"
+msgstr "Audio izlaz"
+
+msgid "PROPERTY_TRANSLATION#289"
+msgstr "jamstvo lampe"
+
+msgid "PROPERTY_TRANSLATION#290"
+msgstr "Maksimalna rezolucija"
+
+msgid "PROPERTY_TRANSLATION#291"
+msgstr "Vertikalna frekvencija"
+
+msgid "PROPERTY_TRANSLATION#292"
+msgstr "Pribori is Software"
+
+msgid "PROPERTY_TRANSLATION#293"
+msgstr "Ispisna tehnologija"
+
+msgid "PROPERTY_TRANSLATION#294"
+msgstr "Maksimalna rezolucija (crna)"
+
+msgid "PROPERTY_TRANSLATION#295"
+msgstr "Maksimalna rezolucija (u boji)"
+
+msgid "PROPERTY_TRANSLATION#296"
+msgstr "Brzina ispisa (crna)"
+
+msgid "PROPERTY_TRANSLATION#297"
+msgstr "Brzina ispisan (u boji)"
+
+msgid "PROPERTY_TRANSLATION#298"
+msgstr "Ispis bez obruba"
+
+msgid "PROPERTY_TRANSLATION#299"
+msgstr "Podržani operacijski sustavi"
+
+msgid "PROPERTY_TRANSLATION#300"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#301"
+msgstr "Utor za čitač kartice"
+
+msgid "PROPERTY_TRANSLATION#302"
+msgstr "Obrađena veličina papira"
+
+msgid "PROPERTY_TRANSLATION#303"
+msgstr "Obostrani ispis (dupleks)"
+
+msgid "PROPERTY_TRANSLATION#304"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#305"
+msgstr "veličine"
+
+msgid "PROPERTY_TRANSLATION#306"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#307"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#308"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#309"
+msgstr "LCD ekran"
+
+msgid "PROPERTY_TRANSLATION#310"
+msgstr "Komentar"
+
+msgid "PROPERTY_TRANSLATION#311"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#312"
+msgstr "Kompatibilne tinte"
+
+msgid "PROPERTY_TRANSLATION#313"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#314"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#315"
+msgstr "Izlazi"
+
+msgid "PROPERTY_TRANSLATION#316"
+msgstr "Ulazi"
+
+msgid "PROPERTY_TRANSLATION#317"
+msgstr "Game port / Midi"
+
+msgid "PROPERTY_TRANSLATION#318"
+msgstr "Driveri"
+
+msgid "PROPERTY_TRANSLATION#319"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#320"
+msgstr "Platforma"
+
+msgid "PROPERTY_TRANSLATION#321"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#322"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#323"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#324"
+msgstr "Mikforon"
+
+msgid "PROPERTY_TRANSLATION#325"
+msgstr "Rezolucija"
+
+msgid "PROPERTY_TRANSLATION#326"
+msgstr "Slika"
+
+msgid "PROPERTY_TRANSLATION#327"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#328"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#329"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#330"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#331"
+msgstr "prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#332"
+msgstr "Driverek"
+
+msgid "PROPERTY_TRANSLATION#333"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#334"
+msgstr "Osvjetljenost"
+
+msgid "PROPERTY_TRANSLATION#335"
+msgstr "Kontrast"
+
+msgid "PROPERTY_TRANSLATION#336"
+msgstr "Kut vidljivosti (H/V)"
+
+msgid "PROPERTY_TRANSLATION#337"
+msgstr "Vrijeme odziva (Gray to Gray)"
+
+msgid "PROPERTY_TRANSLATION#338"
+msgstr "Maksimalna rezolucija"
+
+msgid "PROPERTY_TRANSLATION#339"
+msgstr "Zvučnik"
+
+msgid "PROPERTY_TRANSLATION#340"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#341"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#342"
+msgstr "Tip panela"
+
+msgid "PROPERTY_TRANSLATION#343"
+msgstr "Boje"
+
+msgid "PROPERTY_TRANSLATION#344"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#345"
+msgstr "Površina"
+
+msgid "PROPERTY_TRANSLATION#346"
+msgstr "Standardi"
+
+msgid "PROPERTY_TRANSLATION#347"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#348"
+msgstr "Oprema/softver"
+
+msgid "PROPERTY_TRANSLATION#349"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#350"
+msgstr "Stalak"
+
+msgid "PROPERTY_TRANSLATION#351"
+msgstr "Piksel jamstvo"
+
+msgid "PROPERTY_TRANSLATION#352"
+msgstr "TV tuner"
+
+msgid "PROPERTY_TRANSLATION#353"
+msgstr "Kompatibilsont"
+
+msgid "PROPERTY_TRANSLATION#354"
+msgstr "Vodonepropusna"
+
+msgid "PROPERTY_TRANSLATION#355"
+msgstr "LCD"
+
+msgid "PROPERTY_TRANSLATION#356"
+msgstr "Memorija kartice"
+
+msgid "PROPERTY_TRANSLATION#357"
+msgstr "Baterija"
+
+msgid "PROPERTY_TRANSLATION#358"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#359"
+msgstr "Sustav"
+
+msgid "PROPERTY_TRANSLATION#360"
+msgstr "CCD"
+
+msgid "PROPERTY_TRANSLATION#361"
+msgstr "Optički zoom"
+
+msgid "PROPERTY_TRANSLATION#362"
+msgstr "Digitális Zoom"
+
+msgid "PROPERTY_TRANSLATION#363"
+msgstr "Zvučni sustav"
+
+msgid "PROPERTY_TRANSLATION#364"
+msgstr "Mikrofon"
+
+msgid "PROPERTY_TRANSLATION#365"
+msgstr "Zvučnik"
+
+msgid "PROPERTY_TRANSLATION#366"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#367"
+msgstr "Noćno snimanje"
+
+msgid "PROPERTY_TRANSLATION#368"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#369"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#370"
+msgstr "Proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#371"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#372"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#373"
+msgstr "Ugrađena memorija"
+
+msgid "PROPERTY_TRANSLATION#374"
+msgstr "Trajanje baterije"
+
+msgid "PROPERTY_TRANSLATION#375"
+msgstr "Napajanje"
+
+msgid "PROPERTY_TRANSLATION#376"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#377"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#378"
+msgstr "Vrsta zaslona"
+
+msgid "PROPERTY_TRANSLATION#379"
+msgstr "Osvjetljenje pozadine"
+
+msgid "PROPERTY_TRANSLATION#380"
+msgstr "Firmware"
+
+msgid "PROPERTY_TRANSLATION#381"
+msgstr "Vrijeme snimanja diktafona"
+
+msgid "PROPERTY_TRANSLATION#382"
+msgstr "Ulaz linije"
+
+msgid "PROPERTY_TRANSLATION#383"
+msgstr "Podržani operacijski sustavi"
+
+msgid "PROPERTY_TRANSLATION#384"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#385"
+msgstr "FM tuner"
+
+msgid "PROPERTY_TRANSLATION#386"
+msgstr "Priključak za slušalice"
+
+msgid "PROPERTY_TRANSLATION#387"
+msgstr "Kategorije"
+
+msgid "PROPERTY_TRANSLATION#388"
+msgstr "Multimedija"
+
+msgid "PROPERTY_TRANSLATION#389"
+msgstr "Glazbena snaga"
+
+msgid "PROPERTY_TRANSLATION#390"
+msgstr "Zaslon"
+
+msgid "PROPERTY_TRANSLATION#391"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#392"
+msgstr "Radio"
+
+msgid "PROPERTY_TRANSLATION#393"
+msgstr "Daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#394"
+msgstr "Aversa"
+
+msgid "PROPERTY_TRANSLATION#395"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#396"
+msgstr "CD/DVD/MD izmjenjivačka kontrola"
+
+msgid "PROPERTY_TRANSLATION#397"
+msgstr "Osvjetljenje tipkova"
+
+msgid "PROPERTY_TRANSLATION#398"
+msgstr "LCD"
+
+msgid "PROPERTY_TRANSLATION#399"
+msgstr "Sadržaj"
+
+msgid "PROPERTY_TRANSLATION#400"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#401"
+msgstr "Kontrast"
+
+msgid "PROPERTY_TRANSLATION#402"
+msgstr "kut vidljivosti"
+
+msgid "PROPERTY_TRANSLATION#403"
+msgstr "Rezolucija"
+
+msgid "PROPERTY_TRANSLATION#404"
+msgstr "Proporcija slike"
+
+msgid "PROPERTY_TRANSLATION#405"
+msgstr "Ugrađeni zvučnici"
+
+msgid "PROPERTY_TRANSLATION#406"
+msgstr "rad sa više prozora"
+
+msgid "PROPERTY_TRANSLATION#407"
+msgstr "Frekvencija"
+
+msgid "PROPERTY_TRANSLATION#408"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#409"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#410"
+msgstr "Podržani standardi"
+
+msgid "PROPERTY_TRANSLATION#411"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#412"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#413"
+msgstr "Teletext"
+
+msgid "PROPERTY_TRANSLATION#414"
+msgstr "ugrađeni čitač kartica"
+
+msgid "PROPERTY_TRANSLATION#415"
+msgstr "HD prikaz"
+
+msgid "PROPERTY_TRANSLATION#416"
+msgstr "priključci"
+
+msgid "PROPERTY_TRANSLATION#417"
+msgstr "surround"
+
+msgid "PROPERTY_TRANSLATION#418"
+msgstr "tip tunera"
+
+msgid "PROPERTY_TRANSLATION#419"
+msgstr "MPEG-4/AVC(H264) kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#420"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#421"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#422"
+msgstr "Opterećenje / minuta"
+
+msgid "PROPERTY_TRANSLATION#423"
+msgstr "Komunikacija"
+
+msgid "PROPERTY_TRANSLATION#424"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#425"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#426"
+msgstr "unutrašnja veličina"
+
+msgid "PROPERTY_TRANSLATION#427"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#428"
+msgstr "Prijenos"
+
+msgid "PROPERTY_TRANSLATION#429"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#430"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#431"
+msgstr "Tuner"
+
+msgid "PROPERTY_TRANSLATION#432"
+msgstr "Kasetofon"
+
+msgid "PROPERTY_TRANSLATION#433"
+msgstr "CD Player"
+
+msgid "PROPERTY_TRANSLATION#434"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#435"
+msgstr "Equalizer"
+
+msgid "PROPERTY_TRANSLATION#436"
+msgstr "Zvučnici"
+
+msgid "PROPERTY_TRANSLATION#437"
+msgstr "Daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#438"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#439"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#440"
+msgstr "Pojačavanje basova"
+
+msgid "PROPERTY_TRANSLATION#441"
+msgstr "Ekstra funkcije"
+
+msgid "PROPERTY_TRANSLATION#442"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#443"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#444"
+msgstr "Proporcija slike"
+
+msgid "PROPERTY_TRANSLATION#445"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#446"
+msgstr "Kućiste"
+
+msgid "PROPERTY_TRANSLATION#447"
+msgstr "Ispisna tehnologija"
+
+msgid "PROPERTY_TRANSLATION#448"
+msgstr "doziranje papira"
+
+msgid "PROPERTY_TRANSLATION#449"
+msgstr "Brzina skeniranja"
+
+msgid "PROPERTY_TRANSLATION#450"
+msgstr "rezolucija ispisa"
+
+msgid "PROPERTY_TRANSLATION#451"
+msgstr "brzina ispisa"
+
+msgid "PROPERTY_TRANSLATION#452"
+msgstr "Fax memorija"
+
+msgid "PROPERTY_TRANSLATION#453"
+msgstr "brzina prijepisa"
+
+msgid "PROPERTY_TRANSLATION#454"
+msgstr "veličine (ŠxDxV)"
+
+msgid "PROPERTY_TRANSLATION#455"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#456"
+msgstr "zaslon"
+
+msgid "PROPERTY_TRANSLATION#457"
+msgstr "Duljina kabela"
+
+msgid "PROPERTY_TRANSLATION#458"
+msgstr "Povezivanje"
+
+msgid "PROPERTY_TRANSLATION#459"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#460"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#461"
+msgstr "Frekventni odziv"
+
+msgid "PROPERTY_TRANSLATION#462"
+msgstr "Osjetljivost"
+
+msgid "PROPERTY_TRANSLATION#463"
+msgstr "Otpornost"
+
+msgid "PROPERTY_TRANSLATION#464"
+msgstr "Izrada"
+
+msgid "PROPERTY_TRANSLATION#465"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#466"
+msgstr "veličina ekrana"
+
+msgid "PROPERTY_TRANSLATION#467"
+msgstr "Proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#468"
+msgstr "Tip procesora"
+
+msgid "PROPERTY_TRANSLATION#469"
+msgstr "Operativni sustav"
+
+msgid "PROPERTY_TRANSLATION#470"
+msgstr "Rezolucija ekrana"
+
+msgid "PROPERTY_TRANSLATION#471"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#472"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#473"
+msgstr "Dubina boje"
+
+msgid "PROPERTY_TRANSLATION#474"
+msgstr "Audio"
+
+msgid "PROPERTY_TRANSLATION#475"
+msgstr "Bluetooth"
+
+msgid "PROPERTY_TRANSLATION#476"
+msgstr "Infra port"
+
+msgid "PROPERTY_TRANSLATION#477"
+msgstr "ugrađeni fotoaparat"
+
+msgid "PROPERTY_TRANSLATION#478"
+msgstr "WLAN"
+
+msgid "PROPERTY_TRANSLATION#479"
+msgstr "funkcije mobitela"
+
+msgid "PROPERTY_TRANSLATION#480"
+msgstr "ugrađeni GPS"
+
+msgid "PROPERTY_TRANSLATION#481"
+msgstr "baterija"
+
+msgid "PROPERTY_TRANSLATION#482"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#483"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#484"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#485"
+msgstr "priključci"
+
+msgid "PROPERTY_TRANSLATION#486"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#487"
+msgstr "Priključak za slušalice"
+
+msgid "PROPERTY_TRANSLATION#488"
+msgstr "Vrsta snimanja"
+
+msgid "PROPERTY_TRANSLATION#489"
+msgstr "Vrijeme snimanja (maksimalno)"
+
+msgid "PROPERTY_TRANSLATION#490"
+msgstr "Način snimanja"
+
+msgid "PROPERTY_TRANSLATION#491"
+msgstr "Veličina memorije"
+
+msgid "PROPERTY_TRANSLATION#492"
+msgstr "zaslon"
+
+msgid "PROPERTY_TRANSLATION#493"
+msgstr "Timer snimanja"
+
+msgid "PROPERTY_TRANSLATION#494"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#495"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#496"
+msgstr "PC veza"
+
+msgid "PROPERTY_TRANSLATION#497"
+msgstr "File format"
+
+msgid "PROPERTY_TRANSLATION#498"
+msgstr "Mikrofon ulaz"
+
+msgid "PROPERTY_TRANSLATION#499"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#500"
+msgstr "Tip tunera"
+
+msgid "PROPERTY_TRANSLATION#501"
+msgstr "Frekvencije"
+
+msgid "PROPERTY_TRANSLATION#502"
+msgstr "Podešavanje"
+
+msgid "PROPERTY_TRANSLATION#503"
+msgstr "Napajanje"
+
+msgid "PROPERTY_TRANSLATION#504"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#505"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#506"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#507"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#508"
+msgstr "Tuner"
+
+msgid "PROPERTY_TRANSLATION#509"
+msgstr "Ugrađeni dekoderi"
+
+msgid "PROPERTY_TRANSLATION#510"
+msgstr "Ulazni priključci"
+
+msgid "PROPERTY_TRANSLATION#511"
+msgstr "Izlazni priključci"
+
+msgid "PROPERTY_TRANSLATION#512"
+msgstr "Daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#513"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#514"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#515"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#516"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#517"
+msgstr "Video sustav"
+
+msgid "PROPERTY_TRANSLATION#518"
+msgstr "Ugrađeni dekoderi"
+
+msgid "PROPERTY_TRANSLATION#519"
+msgstr "Tuner"
+
+msgid "PROPERTY_TRANSLATION#520"
+msgstr "Ulazni priključci"
+
+msgid "PROPERTY_TRANSLATION#521"
+msgstr "Izlazni priključci"
+
+msgid "PROPERTY_TRANSLATION#522"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#523"
+msgstr "Daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#524"
+msgstr "tip pohrana podataka"
+
+msgid "PROPERTY_TRANSLATION#525"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#526"
+msgstr "daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#527"
+msgstr "zaštita šoka"
+
+msgid "PROPERTY_TRANSLATION#528"
+msgstr "Equalizer"
+
+msgid "PROPERTY_TRANSLATION#529"
+msgstr "random player"
+
+msgid "PROPERTY_TRANSLATION#530"
+msgstr "Pojačavanje basova"
+
+msgid "PROPERTY_TRANSLATION#531"
+msgstr "surround"
+
+msgid "PROPERTY_TRANSLATION#532"
+msgstr "mrežni adapter"
+
+msgid "PROPERTY_TRANSLATION#533"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#534"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#535"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#536"
+msgstr "pohrana podataka"
+
+msgid "PROPERTY_TRANSLATION#537"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#538"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#539"
+msgstr "Baterije"
+
+msgid "PROPERTY_TRANSLATION#540"
+msgstr "Antene"
+
+msgid "PROPERTY_TRANSLATION#541"
+msgstr "Način povezivosti"
+
+msgid "PROPERTY_TRANSLATION#542"
+msgstr "Bluetooth verzija"
+
+msgid "PROPERTY_TRANSLATION#543"
+msgstr "Raspon frekvencije"
+
+msgid "PROPERTY_TRANSLATION#544"
+msgstr "Chipset"
+
+msgid "PROPERTY_TRANSLATION#545"
+msgstr "Protokol"
+
+msgid "PROPERTY_TRANSLATION#546"
+msgstr "Broj paralelnih kanala"
+
+msgid "PROPERTY_TRANSLATION#547"
+msgstr "frekvencija ažuriranja"
+
+msgid "PROPERTY_TRANSLATION#548"
+msgstr "minimalna praćanja znaka"
+
+msgid "PROPERTY_TRANSLATION#549"
+msgstr "točnost prijemnika"
+
+msgid "PROPERTY_TRANSLATION#550"
+msgstr "Osjetljivost promjene"
+
+msgid "PROPERTY_TRANSLATION#551"
+msgstr "Hot start"
+
+msgid "PROPERTY_TRANSLATION#552"
+msgstr "Warm start"
+
+msgid "PROPERTY_TRANSLATION#553"
+msgstr "Cold start"
+
+msgid "PROPERTY_TRANSLATION#554"
+msgstr "Brzina prijenosa (baud)"
+
+msgid "PROPERTY_TRANSLATION#555"
+msgstr "Maksimalna visina"
+
+msgid "PROPERTY_TRANSLATION#556"
+msgstr "regulator brzine"
+
+msgid "PROPERTY_TRANSLATION#557"
+msgstr "Max. Ubrzanje"
+
+msgid "PROPERTY_TRANSLATION#558"
+msgstr "Max. Udara"
+
+msgid "PROPERTY_TRANSLATION#559"
+msgstr "temoeratura rada"
+
+msgid "PROPERTY_TRANSLATION#560"
+msgstr "temperature pohrane"
+
+msgid "PROPERTY_TRANSLATION#561"
+msgstr "tolerancija vlage"
+
+msgid "PROPERTY_TRANSLATION#562"
+msgstr "napon"
+
+msgid "PROPERTY_TRANSLATION#563"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#564"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#565"
+msgstr "Vrijeme razgovora"
+
+msgid "PROPERTY_TRANSLATION#566"
+msgstr "Vrijeme čekanja"
+
+msgid "PROPERTY_TRANSLATION#567"
+msgstr "Vrijeme punjenja"
+
+msgid "PROPERTY_TRANSLATION#568"
+msgstr "Nosiv na obe strane"
+
+msgid "PROPERTY_TRANSLATION#569"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#570"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#571"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#572"
+msgstr "Podržane funkcije"
+
+msgid "PROPERTY_TRANSLATION#573"
+msgstr "diskovi za snimanje"
+
+msgid "PROPERTY_TRANSLATION#574"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#575"
+msgstr "Ugrađeni tvrdi disk"
+
+msgid "PROPERTY_TRANSLATION#576"
+msgstr "tv tuner jedinica"
+
+msgid "PROPERTY_TRANSLATION#577"
+msgstr "Video sustav"
+
+msgid "PROPERTY_TRANSLATION#578"
+msgstr "ugrađeni čitač kartica"
+
+msgid "PROPERTY_TRANSLATION#579"
+msgstr "Video izlaz"
+
+msgid "PROPERTY_TRANSLATION#580"
+msgstr "audio izlazi"
+
+msgid "PROPERTY_TRANSLATION#581"
+msgstr "ostale priključci"
+
+msgid "PROPERTY_TRANSLATION#582"
+msgstr "Progressive Scan"
+
+msgid "PROPERTY_TRANSLATION#583"
+msgstr "podržani zvučni sustavi"
+
+msgid "PROPERTY_TRANSLATION#584"
+msgstr "veličine"
+
+msgid "PROPERTY_TRANSLATION#585"
+msgstr "Pordžani titlovi"
+
+msgid "PROPERTY_TRANSLATION#586"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#587"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#588"
+msgstr "oblici"
+
+msgid "PROPERTY_TRANSLATION#589"
+msgstr "Vanjski priključci"
+
+msgid "PROPERTY_TRANSLATION#590"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#591"
+msgstr "unutrašnji priključak"
+
+msgid "PROPERTY_TRANSLATION#592"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#593"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#594"
+msgstr "Video sustav"
+
+msgid "PROPERTY_TRANSLATION#595"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#596"
+msgstr "snimjeni formati"
+
+msgid "PROPERTY_TRANSLATION#597"
+msgstr "tip video snimanja"
+
+msgid "PROPERTY_TRANSLATION#598"
+msgstr "način snimanja"
+
+msgid "PROPERTY_TRANSLATION#599"
+msgstr "tuner jedinica"
+
+msgid "PROPERTY_TRANSLATION#600"
+msgstr "ShowView funkcija"
+
+msgid "PROPERTY_TRANSLATION#601"
+msgstr "ugrađeni čitač kartica"
+
+msgid "PROPERTY_TRANSLATION#602"
+msgstr "Tvrdi disk"
+
+msgid "PROPERTY_TRANSLATION#603"
+msgstr "Video izlaz"
+
+msgid "PROPERTY_TRANSLATION#604"
+msgstr "audio izlaz"
+
+msgid "PROPERTY_TRANSLATION#605"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#606"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#607"
+msgstr "učitani diskovi"
+
+msgid "PROPERTY_TRANSLATION#608"
+msgstr "1 bitni D/A- digitalni konverter"
+
+msgid "PROPERTY_TRANSLATION#609"
+msgstr "ID3"
+
+msgid "PROPERTY_TRANSLATION#610"
+msgstr "daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#611"
+msgstr "Broj kanala"
+
+msgid "PROPERTY_TRANSLATION#612"
+msgstr "maksimalni učinak"
+
+msgid "PROPERTY_TRANSLATION#613"
+msgstr "MOSFET"
+
+msgid "PROPERTY_TRANSLATION#614"
+msgstr "High-Pass szuro"
+
+msgid "PROPERTY_TRANSLATION#615"
+msgstr "Low-Pass szuro"
+
+msgid "PROPERTY_TRANSLATION#616"
+msgstr "Rashladni ventilator"
+
+msgid "PROPERTY_TRANSLATION#617"
+msgstr "daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#618"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#619"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#620"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#621"
+msgstr "Frekvencijski odziv"
+
+msgid "PROPERTY_TRANSLATION#622"
+msgstr "Impedancija"
+
+msgid "PROPERTY_TRANSLATION#623"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#624"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#625"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#626"
+msgstr "Brzina čitanja"
+
+msgid "PROPERTY_TRANSLATION#627"
+msgstr "brzina ispisa"
+
+msgid "PROPERTY_TRANSLATION#628"
+msgstr "Brzina prepisivanja"
+
+msgid "PROPERTY_TRANSLATION#629"
+msgstr "DVD RAM kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#630"
+msgstr "Dual Layer"
+
+msgid "PROPERTY_TRANSLATION#631"
+msgstr "Tiltovska tehnologija"
+
+msgid "PROPERTY_TRANSLATION#632"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#633"
+msgstr "Vrijeme pristupa"
+
+msgid "PROPERTY_TRANSLATION#634"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#635"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#636"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#637"
+msgstr "Komentar"
+
+msgid "PROPERTY_TRANSLATION#638"
+msgstr "Izdavač"
+
+msgid "PROPERTY_TRANSLATION#639"
+msgstr "broj stranica"
+
+msgid "PROPERTY_TRANSLATION#641"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#642"
+msgstr "Maksimalna brzina"
+
+msgid "PROPERTY_TRANSLATION#643"
+msgstr "Razina buke"
+
+msgid "PROPERTY_TRANSLATION#644"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#645"
+msgstr "Komentar"
+
+msgid "PROPERTY_TRANSLATION#646"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#647"
+msgstr "oblici"
+
+msgid "PROPERTY_TRANSLATION#648"
+msgstr "5,25" vanjski utor za proširenje"
+
+msgid "PROPERTY_TRANSLATION#649"
+msgstr "3,5 mjesto"
+
+msgid "PROPERTY_TRANSLATION#650"
+msgstr "Napajanja"
+
+msgid "PROPERTY_TRANSLATION#651"
+msgstr "Prednji priključci"
+
+msgid "PROPERTY_TRANSLATION#652"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#653"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#654"
+msgstr "Komentar"
+
+msgid "PROPERTY_TRANSLATION#655"
+msgstr "2,5 mjesto"
+
+msgid "PROPERTY_TRANSLATION#656"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#657"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#658"
+msgstr "Interna cache"
+
+msgid "PROPERTY_TRANSLATION#659"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#660"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#661"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#662"
+msgstr "Interna cache"
+
+msgid "PROPERTY_TRANSLATION#663"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#664"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#665"
+msgstr "Brzina čitanja"
+
+msgid "PROPERTY_TRANSLATION#666"
+msgstr "brzina ispisa"
+
+msgid "PROPERTY_TRANSLATION#667"
+msgstr "Brzina prepisivanja"
+
+msgid "PROPERTY_TRANSLATION#668"
+msgstr "DVD RAM kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#669"
+msgstr "Dual Layer"
+
+msgid "PROPERTY_TRANSLATION#670"
+msgstr "Titlovska tehnologija"
+
+msgid "PROPERTY_TRANSLATION#671"
+msgstr "Vrijeme pristupa"
+
+msgid "PROPERTY_TRANSLATION#672"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#673"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#674"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#675"
+msgstr "Frekvencija"
+
+msgid "PROPERTY_TRANSLATION#676"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#677"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#678"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#679"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#680"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#681"
+msgstr "Brzina čitanja"
+
+msgid "PROPERTY_TRANSLATION#682"
+msgstr "brzina ispisa"
+
+msgid "PROPERTY_TRANSLATION#683"
+msgstr "Brzina prepisivanja"
+
+msgid "PROPERTY_TRANSLATION#684"
+msgstr "DVD RAM kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#685"
+msgstr "Dual Layer"
+
+msgid "PROPERTY_TRANSLATION#686"
+msgstr "Titlovska tehnologija"
+
+msgid "PROPERTY_TRANSLATION#687"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#688"
+msgstr "Vrijeme pristupa"
+
+msgid "PROPERTY_TRANSLATION#689"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#690"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#691"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#692"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#693"
+msgstr "Optička izgradnja"
+
+msgid "PROPERTY_TRANSLATION#694"
+msgstr "promjer prednje leća"
+
+msgid "PROPERTY_TRANSLATION#695"
+msgstr "fokus udaljenost"
+
+msgid "PROPERTY_TRANSLATION#696"
+msgstr "Jačina svjetlosti"
+
+msgid "PROPERTY_TRANSLATION#697"
+msgstr "Baza podataka"
+
+msgid "PROPERTY_TRANSLATION#698"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#699"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#700"
+msgstr "Mehanika"
+
+msgid "PROPERTY_TRANSLATION#701"
+msgstr "Vidljivi kut"
+
+msgid "PROPERTY_TRANSLATION#702"
+msgstr "Uvećanje"
+
+msgid "PROPERTY_TRANSLATION#703"
+msgstr "promjer leća"
+
+msgid "PROPERTY_TRANSLATION#704"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#705"
+msgstr "Pohrana podataka"
+
+msgid "PROPERTY_TRANSLATION#706"
+msgstr "Dimenzije"
+
+msgid "PROPERTY_TRANSLATION#707"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#708"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#709"
+msgstr "Dekoderi"
+
+msgid "PROPERTY_TRANSLATION#710"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#711"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#712"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#713"
+msgstr "pohrana podataka"
+
+msgid "PROPERTY_TRANSLATION#714"
+msgstr "Veličina ekrana"
+
+msgid "PROPERTY_TRANSLATION#715"
+msgstr "Rezolucija ekrana"
+
+msgid "PROPERTY_TRANSLATION#716"
+msgstr "Ugrađeni zvučnici"
+
+msgid "PROPERTY_TRANSLATION#717"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#718"
+msgstr "Ugrađeni Dekoderi"
+
+msgid "PROPERTY_TRANSLATION#719"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#720"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#721"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#722"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#723"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#724"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#725"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#726"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#727"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#728"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#729"
+msgstr "Površina"
+
+msgid "PROPERTY_TRANSLATION#730"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#731"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#732"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#733"
+msgstr "Vrsta napajanja"
+
+msgid "PROPERTY_TRANSLATION#734"
+msgstr "Vanjska jedinica"
+
+msgid "PROPERTY_TRANSLATION#735"
+msgstr "vanjska veličina"
+
+msgid "PROPERTY_TRANSLATION#736"
+msgstr "unutrašnja veličina"
+
+msgid "PROPERTY_TRANSLATION#737"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#738"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#739"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#740"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#741"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#742"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#743"
+msgstr "tip priključka"
+
+msgid "PROPERTY_TRANSLATION#744"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#745"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#746"
+msgstr "Utor za memorijsku karticu"
+
+msgid "PROPERTY_TRANSLATION#747"
+msgstr "Veličina ekrana"
+
+msgid "PROPERTY_TRANSLATION#748"
+msgstr "Rezolucija ekrana"
+
+msgid "PROPERTY_TRANSLATION#749"
+msgstr "Proporcija slike"
+
+msgid "PROPERTY_TRANSLATION#750"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#751"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#752"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#753"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#754"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#755"
+msgstr "tip kartice za pohranu"
+
+msgid "PROPERTY_TRANSLATION#756"
+msgstr "broj kartica"
+
+msgid "PROPERTY_TRANSLATION#757"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#758"
+msgstr "veličina baterije"
+
+msgid "PROPERTY_TRANSLATION#759"
+msgstr "broj baterije"
+
+msgid "PROPERTY_TRANSLATION#760"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#761"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#762"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#763"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#764"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#765"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#766"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#767"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#768"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#769"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#770"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#771"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#772"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#773"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#774"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#775"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#776"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#777"
+msgstr "broj čelije"
+
+msgid "PROPERTY_TRANSLATION#778"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#779"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#780"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#781"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#782"
+msgstr "Frekvencija prijenosa"
+
+msgid "PROPERTY_TRANSLATION#783"
+msgstr "Osetljivost"
+
+msgid "PROPERTY_TRANSLATION#784"
+msgstr "Otpornost"
+
+msgid "PROPERTY_TRANSLATION#785"
+msgstr "Priključak"
+
+msgid "PROPERTY_TRANSLATION#786"
+msgstr "Dužina kabela"
+
+msgid "PROPERTY_TRANSLATION#787"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#788"
+msgstr "Priključak za slušalice"
+
+msgid "PROPERTY_TRANSLATION#789"
+msgstr "Utičnica za mikrofon"
+
+msgid "PROPERTY_TRANSLATION#790"
+msgstr "Dužina kabela"
+
+msgid "PROPERTY_TRANSLATION#791"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#792"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#793"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#794"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#795"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#796"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#797"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#798"
+msgstr "kompatibilni uređaji"
+
+msgid "PROPERTY_TRANSLATION#799"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#800"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#801"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#802"
+msgstr "tip zatvora"
+
+msgid "PROPERTY_TRANSLATION#803"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#804"
+msgstr "Zvučni sustav"
+
+msgid "PROPERTY_TRANSLATION#805"
+msgstr "Snaga (RMS)"
+
+msgid "PROPERTY_TRANSLATION#806"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#807"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#808"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#809"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#810"
+msgstr "Brzina prijenosa podataka"
+
+msgid "PROPERTY_TRANSLATION#811"
+msgstr "Broj portova"
+
+msgid "PROPERTY_TRANSLATION#812"
+msgstr "Bežični standardi"
+
+msgid "PROPERTY_TRANSLATION#813"
+msgstr "sigurnosna riješenja"
+
+msgid "PROPERTY_TRANSLATION#814"
+msgstr "Broj portova"
+
+msgid "PROPERTY_TRANSLATION#815"
+msgstr "Brzina prijenosa podataka"
+
+msgid "PROPERTY_TRANSLATION#816"
+msgstr "Standardi"
+
+msgid "PROPERTY_TRANSLATION#817"
+msgstr "Broj portova"
+
+msgid "PROPERTY_TRANSLATION#818"
+msgstr "zaštita napona"
+
+msgid "PROPERTY_TRANSLATION#819"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#820"
+msgstr "Brzina prijenosa podataka"
+
+msgid "PROPERTY_TRANSLATION#821"
+msgstr "Bežični standardi"
+
+msgid "PROPERTY_TRANSLATION#822"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#823"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#824"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#825"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#826"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#827"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#828"
+msgstr "kompatibilna TV veličina"
+
+msgid "PROPERTY_TRANSLATION#829"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#830"
+msgstr "opterećenje"
+
+msgid "PROPERTY_TRANSLATION#831"
+msgstr "okretljiv"
+
+msgid "PROPERTY_TRANSLATION#832"
+msgstr "nagibnost"
+
+msgid "PROPERTY_TRANSLATION#833"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#834"
+msgstr "aktivna površina"
+
+msgid "PROPERTY_TRANSLATION#835"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#836"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#837"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#838"
+msgstr "kompatibilne televizor"
+
+msgid "PROPERTY_TRANSLATION#839"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#840"
+msgstr "zaslon"
+
+msgid "PROPERTY_TRANSLATION#841"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#842"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#843"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#844"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#845"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#846"
+msgstr "Rezolucija"
+
+msgid "PROPERTY_TRANSLATION#847"
+msgstr "Kontrast"
+
+msgid "PROPERTY_TRANSLATION#848"
+msgstr "HD prikaz"
+
+msgid "PROPERTY_TRANSLATION#849"
+msgstr "Proporcija slike"
+
+msgid "PROPERTY_TRANSLATION#850"
+msgstr "Ugrađeni zvučnici"
+
+msgid "PROPERTY_TRANSLATION#851"
+msgstr "surround"
+
+msgid "PROPERTY_TRANSLATION#852"
+msgstr "rad sa više prozora"
+
+msgid "PROPERTY_TRANSLATION#853"
+msgstr "priključci"
+
+msgid "PROPERTY_TRANSLATION#854"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#855"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#856"
+msgstr "MPEG-4/AVC(H264) kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#857"
+msgstr "Jezici"
+
+msgid "PROPERTY_TRANSLATION#858"
+msgstr "zaslon"
+
+msgid "PROPERTY_TRANSLATION#859"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#860"
+msgstr "Broj poznatih riječi"
+
+msgid "PROPERTY_TRANSLATION#861"
+msgstr "Broj poznatih rečenica"
+
+msgid "PROPERTY_TRANSLATION#862"
+msgstr "Provjera pravopisa"
+
+msgid "PROPERTY_TRANSLATION#863"
+msgstr "Volumen"
+
+msgid "PROPERTY_TRANSLATION#864"
+msgstr "Snaga mikrovalne (max.)"
+
+msgid "PROPERTY_TRANSLATION#865"
+msgstr "Upravljanje"
+
+msgid "PROPERTY_TRANSLATION#866"
+msgstr "Snaga grila"
+
+msgid "PROPERTY_TRANSLATION#867"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#868"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#869"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#870"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#871"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#872"
+msgstr "Težina (kg)"
+
+msgid "PROPERTY_TRANSLATION#873"
+msgstr "Broj programa"
+
+msgid "PROPERTY_TRANSLATION#874"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#875"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#876"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#877"
+msgstr "Žarišna daljina"
+
+msgid "PROPERTY_TRANSLATION#878"
+msgstr "Materija kućišta"
+
+msgid "PROPERTY_TRANSLATION#879"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#880"
+msgstr "Magyar cím"
+
+msgid "PROPERTY_TRANSLATION#881"
+msgstr "originalna adresa"
+
+msgid "PROPERTY_TRANSLATION#882"
+msgstr "prilagođena doba"
+
+msgid "PROPERTY_TRANSLATION#883"
+msgstr "godina proizvodnje"
+
+msgid "PROPERTY_TRANSLATION#884"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#885"
+msgstr "režiser"
+
+msgid "PROPERTY_TRANSLATION#886"
+msgstr "zvukovi"
+
+msgid "PROPERTY_TRANSLATION#887"
+msgstr "zapisi"
+
+msgid "PROPERTY_TRANSLATION#888"
+msgstr "Vrijeme igre"
+
+msgid "PROPERTY_TRANSLATION#889"
+msgstr "Fõszereplő"
+
+msgid "PROPERTY_TRANSLATION#890"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#891"
+msgstr "Broj kanala"
+
+msgid "PROPERTY_TRANSLATION#892"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#893"
+msgstr "Vijek trajanja baterije"
+
+msgid "PROPERTY_TRANSLATION#894"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#895"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#896"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#897"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#898"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#899"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#900"
+msgstr "Interni cache"
+
+msgid "PROPERTY_TRANSLATION#901"
+msgstr "Proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#902"
+msgstr "Radna frekvencija"
+
+msgid "PROPERTY_TRANSLATION#903"
+msgstr "Rezolucija zaslona"
+
+msgid "PROPERTY_TRANSLATION#904"
+msgstr "Dubina boja zaslona"
+
+msgid "PROPERTY_TRANSLATION#905"
+msgstr "Memorija"
+
+msgid "PROPERTY_TRANSLATION#906"
+msgstr "Prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#907"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#908"
+msgstr "Kamera"
+
+msgid "PROPERTY_TRANSLATION#909"
+msgstr "Glasovne funkcije"
+
+msgid "PROPERTY_TRANSLATION#910"
+msgstr "Značajke multimedije"
+
+msgid "PROPERTY_TRANSLATION#911"
+msgstr "Aplikacije"
+
+msgid "PROPERTY_TRANSLATION#912"
+msgstr "Ekstra funkcije"
+
+msgid "PROPERTY_TRANSLATION#913"
+msgstr "Akumulator"
+
+msgid "PROPERTY_TRANSLATION#914"
+msgstr "Sadržaj kutije"
+
+msgid "PROPERTY_TRANSLATION#915"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#916"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#917"
+msgstr "Dizajn"
+
+msgid "PROPERTY_TRANSLATION#918"
+msgstr "Vrijeme razgovora"
+
+msgid "PROPERTY_TRANSLATION#919"
+msgstr "Vrijeme čekanja"
+
+msgid "PROPERTY_TRANSLATION#920"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#921"
+msgstr "Operativni sistem"
+
+msgid "PROPERTY_TRANSLATION#922"
+msgstr "Ugrađeni GPS prijemnik"
+
+msgid "PROPERTY_TRANSLATION#923"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#924"
+msgstr "Društvene mreže"
+
+msgid "PROPERTY_TRANSLATION#925"
+msgstr "SIM utor"
+
+msgid "PROPERTY_TRANSLATION#926"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#927"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#928"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#929"
+msgstr "ostale"
+
+msgid "PROPERTY_TRANSLATION#930"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#931"
+msgstr "Uvećanje"
+
+msgid "PROPERTY_TRANSLATION#932"
+msgstr "Promjer objektiva"
+
+msgid "PROPERTY_TRANSLATION#933"
+msgstr "sumračni vrijednost"
+
+msgid "PROPERTY_TRANSLATION#934"
+msgstr "vidno područje (kod 1000 m)"
+
+msgid "PROPERTY_TRANSLATION#935"
+msgstr "Blizu raspona"
+
+msgid "PROPERTY_TRANSLATION#936"
+msgstr "Izlazna pupila"
+
+msgid "PROPERTY_TRANSLATION#937"
+msgstr "udaljenost oka"
+
+msgid "PROPERTY_TRANSLATION#938"
+msgstr "Vodootporni"
+
+msgid "PROPERTY_TRANSLATION#939"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#940"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#941"
+msgstr "Korišćenje stativa"
+
+msgid "PROPERTY_TRANSLATION#942"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#943"
+msgstr "Volumen hladnjaka"
+
+msgid "PROPERTY_TRANSLATION#944"
+msgstr "Volumen hlađnjaka"
+
+msgid "PROPERTY_TRANSLATION#945"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#946"
+msgstr "Energetska klasa (kWh)"
+
+msgid "PROPERTY_TRANSLATION#947"
+msgstr "Fagyasztó leolvasztás"
+
+msgid "PROPERTY_TRANSLATION#948"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#949"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#950"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#951"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#952"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#953"
+msgstr "Hűtő polc"
+
+msgid "PROPERTY_TRANSLATION#954"
+msgstr "Ajtórekesz"
+
+msgid "PROPERTY_TRANSLATION#955"
+msgstr "Bigbox"
+
+msgid "PROPERTY_TRANSLATION#956"
+msgstr "Fagyasztó polc"
+
+msgid "PROPERTY_TRANSLATION#957"
+msgstr "Fagyasztó fiók"
+
+msgid "PROPERTY_TRANSLATION#958"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#959"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#960"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#961"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#962"
+msgstr "perljiva kapacitet"
+
+msgid "PROPERTY_TRANSLATION#963"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#964"
+msgstr "Energetska klasa (kWh)"
+
+msgid "PROPERTY_TRANSLATION#965"
+msgstr "Centrifuga max. fordulatszáma"
+
+msgid "PROPERTY_TRANSLATION#966"
+msgstr "potrošnja vode"
+
+msgid "PROPERTY_TRANSLATION#967"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#968"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#969"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#970"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#971"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#972"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#973"
+msgstr "Broj programa"
+
+msgid "PROPERTY_TRANSLATION#974"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#975"
+msgstr "Broj programa"
+
+msgid "PROPERTY_TRANSLATION#976"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#977"
+msgstr "Energetska klasa (kWh)"
+
+msgid "PROPERTY_TRANSLATION#978"
+msgstr "potrošnja vode"
+
+msgid "PROPERTY_TRANSLATION#979"
+msgstr "temperatura pranja"
+
+msgid "PROPERTY_TRANSLATION#980"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#981"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#982"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#983"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#984"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#985"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#986"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#987"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#988"
+msgstr "Főzőfelület"
+
+msgid "PROPERTY_TRANSLATION#989"
+msgstr "volumen pečenja"
+
+msgid "PROPERTY_TRANSLATION#990"
+msgstr "funkcije pećenja"
+
+msgid "PROPERTY_TRANSLATION#991"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#992"
+msgstr "volumen pečenja"
+
+msgid "PROPERTY_TRANSLATION#993"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#994"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#995"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#996"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#997"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#998"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#999"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#1000"
+msgstr "funkcije pećenja"
+
+msgid "PROPERTY_TRANSLATION#1001"
+msgstr "volumen pečenja"
+
+msgid "PROPERTY_TRANSLATION#1002"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#1003"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1004"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1005"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1006"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1007"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1008"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1009"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#1010"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1011"
+msgstr "Broj polja za kuhanje"
+
+msgid "PROPERTY_TRANSLATION#1012"
+msgstr "Upravljanje"
+
+msgid "PROPERTY_TRANSLATION#1013"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1014"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1015"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1016"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1017"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1018"
+msgstr "Težina (kg)"
+
+msgid "PROPERTY_TRANSLATION#1019"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1020"
+msgstr "Upravljanje"
+
+msgid "PROPERTY_TRANSLATION#1021"
+msgstr "učinak usisa(m3/sat)"
+
+msgid "PROPERTY_TRANSLATION#1022"
+msgstr "Broj stupnjeva"
+
+msgid "PROPERTY_TRANSLATION#1023"
+msgstr "Nivo buke"
+
+msgid "PROPERTY_TRANSLATION#1024"
+msgstr "Broj motora"
+
+msgid "PROPERTY_TRANSLATION#1025"
+msgstr "Ugrađeno svjetlo"
+
+msgid "PROPERTY_TRANSLATION#1026"
+msgstr "Filter masnoće"
+
+msgid "PROPERTY_TRANSLATION#1027"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1028"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1029"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1030"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1031"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1032"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1033"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1034"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1035"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1036"
+msgstr "Težina (kg)"
+
+msgid "PROPERTY_TRANSLATION#1037"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1038"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1039"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1040"
+msgstr "Parni pritisak"
+
+msgid "PROPERTY_TRANSLATION#1041"
+msgstr "Spremnik za vodu"
+
+msgid "PROPERTY_TRANSLATION#1042"
+msgstr "Grejna ploča"
+
+msgid "PROPERTY_TRANSLATION#1043"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1044"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1045"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1046"
+msgstr "brzina"
+
+msgid "PROPERTY_TRANSLATION#1047"
+msgstr "promjer lopata"
+
+msgid "PROPERTY_TRANSLATION#1048"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1049"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1050"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1051"
+msgstr "Broj stupnjeva"
+
+msgid "PROPERTY_TRANSLATION#1052"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1053"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1054"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1055"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1056"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#1057"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1058"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1059"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1060"
+msgstr "Kompatibilni uređaji"
+
+msgid "PROPERTY_TRANSLATION#1061"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1062"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1063"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1064"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#1065"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1066"
+msgstr "Volumen spremnika za vodu"
+
+msgid "PROPERTY_TRANSLATION#1067"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1068"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1069"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1070"
+msgstr "Podržane kartice"
+
+msgid "PROPERTY_TRANSLATION#1071"
+msgstr "Težina (g)"
+
+msgid "PROPERTY_TRANSLATION#1072"
+msgstr "Širina (mm)"
+
+msgid "PROPERTY_TRANSLATION#1073"
+msgstr "Visina (mm)"
+
+msgid "PROPERTY_TRANSLATION#1074"
+msgstr "Dubina (mm)"
+
+msgid "PROPERTY_TRANSLATION#1075"
+msgstr "Kapacitet baterije"
+
+msgid "PROPERTY_TRANSLATION#1076"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#1077"
+msgstr "Rezolucija zaslona"
+
+msgid "PROPERTY_TRANSLATION#1078"
+msgstr "Vrsta zaslona"
+
+msgid "PROPERTY_TRANSLATION#1079"
+msgstr "Ugrađena memorija"
+
+msgid "PROPERTY_TRANSLATION#1080"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#1081"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1082"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#1083"
+msgstr "Multimedijske funkcije"
+
+msgid "PROPERTY_TRANSLATION#1084"
+msgstr "GPS funkcije"
+
+msgid "PROPERTY_TRANSLATION#1085"
+msgstr "GPS prijemnik"
+
+msgid "PROPERTY_TRANSLATION#1086"
+msgstr "Unaprijed instalirana karta"
+
+msgid "PROPERTY_TRANSLATION#1087"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1088"
+msgstr "Napajanje"
+
+msgid "PROPERTY_TRANSLATION#1089"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#1090"
+msgstr "Operativni sistem"
+
+msgid "PROPERTY_TRANSLATION#1091"
+msgstr "Audio"
+
+msgid "PROPERTY_TRANSLATION#1092"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1093"
+msgstr "LCD ekran"
+
+msgid "PROPERTY_TRANSLATION#1094"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1095"
+msgstr "Memorija imenika"
+
+msgid "PROPERTY_TRANSLATION#1096"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1097"
+msgstr "Vrsta"
+
+msgid "PROPERTY_TRANSLATION#1098"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1099"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1100"
+msgstr "Platforma"
+
+msgid "PROPERTY_TRANSLATION#1101"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1102"
+msgstr "prilagođena doba"
+
+msgid "PROPERTY_TRANSLATION#1103"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#1104"
+msgstr "pružatelj usluge"
+
+msgid "PROPERTY_TRANSLATION#1105"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#1106"
+msgstr "Ograničenja prometa podataka"
+
+msgid "PROPERTY_TRANSLATION#1107"
+msgstr "sadržalj paketa"
+
+msgid "PROPERTY_TRANSLATION#1108"
+msgstr "kompatibilna dimenzija"
+
+msgid "PROPERTY_TRANSLATION#1109"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1110"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1111"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1112"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1113"
+msgstr "Izdavač"
+
+msgid "PROPERTY_TRANSLATION#1114"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1115"
+msgstr "Vodootporna"
+
+msgid "PROPERTY_TRANSLATION#1116"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#1117"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1118"
+msgstr "Broj tipki"
+
+msgid "PROPERTY_TRANSLATION#1119"
+msgstr "Polifonija"
+
+msgid "PROPERTY_TRANSLATION#1120"
+msgstr "Ton"
+
+msgid "PROPERTY_TRANSLATION#1121"
+msgstr "Ritmovi"
+
+msgid "PROPERTY_TRANSLATION#1122"
+msgstr "Vrsta tipki"
+
+msgid "PROPERTY_TRANSLATION#1123"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#1124"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1125"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1126"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1127"
+msgstr "oblici"
+
+msgid "PROPERTY_TRANSLATION#1128"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1129"
+msgstr "pogon"
+
+msgid "PROPERTY_TRANSLATION#1130"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#1131"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1132"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#1133"
+msgstr "Upravljanje uređaja"
+
+msgid "PROPERTY_TRANSLATION#1134"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1135"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1136"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#1137"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1138"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1139"
+msgstr "Broj volumena"
+
+msgid "PROPERTY_TRANSLATION#1140"
+msgstr "Broj brzine"
+
+msgid "PROPERTY_TRANSLATION#1141"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1142"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1143"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1144"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1145"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1146"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1147"
+msgstr "Maksimalno opterećenje"
+
+msgid "PROPERTY_TRANSLATION#1148"
+msgstr "Podjela"
+
+msgid "PROPERTY_TRANSLATION#1149"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1150"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1151"
+msgstr "Maksimalno opterećenje"
+
+msgid "PROPERTY_TRANSLATION#1152"
+msgstr "Podjela"
+
+msgid "PROPERTY_TRANSLATION#1153"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1154"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1155"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1156"
+msgstr "Podjela"
+
+msgid "PROPERTY_TRANSLATION#1157"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1158"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1159"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1160"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1161"
+msgstr "kapacitet ulja"
+
+msgid "PROPERTY_TRANSLATION#1162"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1163"
+msgstr "Broj programa"
+
+msgid "PROPERTY_TRANSLATION#1164"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#1165"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1166"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#1167"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1168"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1169"
+msgstr "Izdavač"
+
+msgid "PROPERTY_TRANSLATION#1170"
+msgstr "Stil"
+
+msgid "PROPERTY_TRANSLATION#1171"
+msgstr "Prilagođena dob"
+
+msgid "PROPERTY_TRANSLATION#1172"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1173"
+msgstr "Učinak hlađenja"
+
+msgid "PROPERTY_TRANSLATION#1174"
+msgstr "učinak grijanja"
+
+msgid "PROPERTY_TRANSLATION#1175"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#1176"
+msgstr "Nivo buke"
+
+msgid "PROPERTY_TRANSLATION#1177"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1178"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1179"
+msgstr "Volumen"
+
+msgid "PROPERTY_TRANSLATION#1180"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1181"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1182"
+msgstr "Kapacitet soka"
+
+msgid "PROPERTY_TRANSLATION#1183"
+msgstr "Broj brzine"
+
+msgid "PROPERTY_TRANSLATION#1184"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1185"
+msgstr "Kapacitet spremnika pulpe"
+
+msgid "PROPERTY_TRANSLATION#1186"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1187"
+msgstr "volumen"
+
+msgid "PROPERTY_TRANSLATION#1188"
+msgstr "Broj brzine"
+
+msgid "PROPERTY_TRANSLATION#1189"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1190"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1191"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#1192"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1193"
+msgstr "Broj brzina"
+
+msgid "PROPERTY_TRANSLATION#1194"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1195"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1196"
+msgstr "volumen"
+
+msgid "PROPERTY_TRANSLATION#1197"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1198"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1199"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1200"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1201"
+msgstr "volumen spremika tekućina"
+
+msgid "PROPERTY_TRANSLATION#1202"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1203"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#1204"
+msgstr "Broj tipke"
+
+msgid "PROPERTY_TRANSLATION#1205"
+msgstr "Priključak"
+
+msgid "PROPERTY_TRANSLATION#1206"
+msgstr "svjetiljka sa podesivanje"
+
+msgid "PROPERTY_TRANSLATION#1207"
+msgstr "Dodjela"
+
+msgid "PROPERTY_TRANSLATION#1208"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1209"
+msgstr "karte"
+
+msgid "PROPERTY_TRANSLATION#1210"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1211"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1212"
+msgstr "sadržalj paketa"
+
+msgid "PROPERTY_TRANSLATION#1213"
+msgstr "svojstva"
+
+msgid "PROPERTY_TRANSLATION#1214"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1215"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1216"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1217"
+msgstr "Točnost mjerenja"
+
+msgid "PROPERTY_TRANSLATION#1218"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1219"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1220"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1221"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1222"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1223"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#1224"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1225"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1226"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1227"
+msgstr "Podešavanje duljine"
+
+msgid "PROPERTY_TRANSLATION#1228"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1229"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1230"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1231"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1232"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1233"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1234"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1235"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1236"
+msgstr "volumen spremnika"
+
+msgid "PROPERTY_TRANSLATION#1237"
+msgstr "Radna širina"
+
+msgid "PROPERTY_TRANSLATION#1238"
+msgstr "količina za rezanja od jednom"
+
+msgid "PROPERTY_TRANSLATION#1239"
+msgstr "veličina drobljenja"
+
+msgid "PROPERTY_TRANSLATION#1240"
+msgstr "kapacitet bušenja"
+
+msgid "PROPERTY_TRANSLATION#1241"
+msgstr "kapacitet spirala"
+
+msgid "PROPERTY_TRANSLATION#1242"
+msgstr "opterećenje"
+
+msgid "PROPERTY_TRANSLATION#1243"
+msgstr "okretljiv"
+
+msgid "PROPERTY_TRANSLATION#1244"
+msgstr "nagibnost"
+
+msgid "PROPERTY_TRANSLATION#1245"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1246"
+msgstr "Broj stupnjeva"
+
+msgid "PROPERTY_TRANSLATION#1247"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1248"
+msgstr "Veličina pečenog kruha"
+
+msgid "PROPERTY_TRANSLATION#1249"
+msgstr "Broj programa"
+
+msgid "PROPERTY_TRANSLATION#1250"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1251"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1252"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1253"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1254"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1255"
+msgstr "Debljina kriški"
+
+msgid "PROPERTY_TRANSLATION#1256"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1257"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1258"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1259"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1260"
+msgstr "napon punjenja"
+
+msgid "PROPERTY_TRANSLATION#1261"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1262"
+msgstr "Broj zamjenskih glava"
+
+msgid "PROPERTY_TRANSLATION#1263"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1264"
+msgstr "pritisak"
+
+msgid "PROPERTY_TRANSLATION#1265"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1266"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1267"
+msgstr "senzor"
+
+msgid "PROPERTY_TRANSLATION#1268"
+msgstr "vidljiva udaljnost"
+
+msgid "PROPERTY_TRANSLATION#1269"
+msgstr "zaslon"
+
+msgid "PROPERTY_TRANSLATION#1270"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1271"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1272"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1273"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1274"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1275"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1276"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1277"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1278"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1279"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#1280"
+msgstr "melodije"
+
+msgid "PROPERTY_TRANSLATION#1281"
+msgstr "napon predajnika"
+
+msgid "PROPERTY_TRANSLATION#1282"
+msgstr "učinak prijemnika"
+
+msgid "PROPERTY_TRANSLATION#1283"
+msgstr "Maksimalni kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1284"
+msgstr "vanjska veličina"
+
+msgid "PROPERTY_TRANSLATION#1285"
+msgstr "Unutarnja veličina (D x D x Š)"
+
+msgid "PROPERTY_TRANSLATION#1286"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1287"
+msgstr "Prijenosiv"
+
+msgid "PROPERTY_TRANSLATION#1288"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1289"
+msgstr "Izvor napajanja"
+
+msgid "PROPERTY_TRANSLATION#1290"
+msgstr "Specijalni"
+
+msgid "PROPERTY_TRANSLATION#1291"
+msgstr "tip pogona"
+
+msgid "PROPERTY_TRANSLATION#1292"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#1293"
+msgstr "tip drška"
+
+msgid "PROPERTY_TRANSLATION#1294"
+msgstr "regulator brzine"
+
+msgid "PROPERTY_TRANSLATION#1295"
+msgstr "snaga"
+
+msgid "PROPERTY_TRANSLATION#1296"
+msgstr "Nyávogás (sebességingadozás mértéke)"
+
+msgid "PROPERTY_TRANSLATION#1297"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1298"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#1299"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1300"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1301"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1302"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1303"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1304"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1305"
+msgstr "Raspon frekvencije"
+
+msgid "PROPERTY_TRANSLATION#1306"
+msgstr "distorzija"
+
+msgid "PROPERTY_TRANSLATION#1307"
+msgstr "omjer znaka/šuma"
+
+msgid "PROPERTY_TRANSLATION#1308"
+msgstr "Podržani medijski formati"
+
+msgid "PROPERTY_TRANSLATION#1310"
+msgstr "regulator brzine"
+
+msgid "PROPERTY_TRANSLATION#1311"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1312"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#1313"
+msgstr "Priklljučci"
+
+msgid "PROPERTY_TRANSLATION#1314"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1315"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1316"
+msgstr "Broj kanala"
+
+msgid "PROPERTY_TRANSLATION#1317"
+msgstr "Ulazi"
+
+msgid "PROPERTY_TRANSLATION#1318"
+msgstr "Izlazi"
+
+msgid "PROPERTY_TRANSLATION#1319"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1320"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#1321"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1322"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1323"
+msgstr "frekvencija raspon"
+
+msgid "PROPERTY_TRANSLATION#1324"
+msgstr "omjer znaka/šuma"
+
+msgid "PROPERTY_TRANSLATION#1325"
+msgstr "distorzija"
+
+msgid "PROPERTY_TRANSLATION#1326"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1327"
+msgstr "pružatelj usluge"
+
+msgid "PROPERTY_TRANSLATION#1328"
+msgstr "Tarifacsomag"
+
+msgid "PROPERTY_TRANSLATION#1329"
+msgstr "Lebeszélhetőség"
+
+msgid "PROPERTY_TRANSLATION#1330"
+msgstr "zaslon"
+
+msgid "PROPERTY_TRANSLATION#1331"
+msgstr "daljinski upravljač"
+
+msgid "PROPERTY_TRANSLATION#1332"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#1333"
+msgstr "izdavač"
+
+msgid "PROPERTY_TRANSLATION#1334"
+msgstr "vrijednost"
+
+msgid "PROPERTY_TRANSLATION#1335"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1336"
+msgstr "kapacitet sušenja"
+
+msgid "PROPERTY_TRANSLATION#1337"
+msgstr "Energetska klasa"
+
+msgid "PROPERTY_TRANSLATION#1338"
+msgstr "Broj programa"
+
+msgid "PROPERTY_TRANSLATION#1339"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1340"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1341"
+msgstr "Širina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1342"
+msgstr "Visina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1343"
+msgstr "Dubina (cm)"
+
+msgid "PROPERTY_TRANSLATION#1344"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#1345"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1346"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#1347"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1348"
+msgstr "Proporcija slike"
+
+msgid "PROPERTY_TRANSLATION#1349"
+msgstr "Sustav"
+
+msgid "PROPERTY_TRANSLATION#1350"
+msgstr "Ažuriranje slike"
+
+msgid "PROPERTY_TRANSLATION#1351"
+msgstr "Zvučni sustav"
+
+msgid "PROPERTY_TRANSLATION#1352"
+msgstr "kapacitet zvučnika"
+
+msgid "PROPERTY_TRANSLATION#1353"
+msgstr "rad sa više prozora"
+
+msgid "PROPERTY_TRANSLATION#1354"
+msgstr "Broj kanala"
+
+msgid "PROPERTY_TRANSLATION#1355"
+msgstr "OSD meni"
+
+msgid "PROPERTY_TRANSLATION#1356"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1357"
+msgstr "priključci"
+
+msgid "PROPERTY_TRANSLATION#1358"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1359"
+msgstr "veličina mm"
+
+msgid "PROPERTY_TRANSLATION#1360"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#1361"
+msgstr "podržani video formati"
+
+msgid "PROPERTY_TRANSLATION#1362"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#1363"
+msgstr "video priključak"
+
+msgid "PROPERTY_TRANSLATION#1364"
+msgstr "Audio priključak"
+
+msgid "PROPERTY_TRANSLATION#1365"
+msgstr "ostale priključci"
+
+msgid "PROPERTY_TRANSLATION#1366"
+msgstr "Ugrađena memorija"
+
+msgid "PROPERTY_TRANSLATION#1367"
+msgstr "Proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#1368"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#1369"
+msgstr "Rezolucija zaslona"
+
+msgid "PROPERTY_TRANSLATION#1370"
+msgstr "Podržani fajlovi"
+
+msgid "PROPERTY_TRANSLATION#1371"
+msgstr "Baterija"
+
+msgid "PROPERTY_TRANSLATION#1372"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#1373"
+msgstr "Protokol"
+
+msgid "PROPERTY_TRANSLATION#1374"
+msgstr "Csatlakozás"
+
+msgid "PROPERTY_TRANSLATION#1375"
+msgstr "Broj tipki"
+
+msgid "PROPERTY_TRANSLATION#1376"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1377"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1378"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#1379"
+msgstr "frekvencije"
+
+msgid "PROPERTY_TRANSLATION#1380"
+msgstr "zaštita 360°"
+
+msgid "PROPERTY_TRANSLATION#1381"
+msgstr "gradski način rada"
+
+msgid "PROPERTY_TRANSLATION#1382"
+msgstr "Volumen spremnika"
+
+msgid "PROPERTY_TRANSLATION#1383"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1384"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1385"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1386"
+msgstr "Brzina prijenos vode"
+
+msgid "PROPERTY_TRANSLATION#1387"
+msgstr "trajanja filtera"
+
+msgid "PROPERTY_TRANSLATION#1388"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1389"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1390"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1391"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#1392"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1393"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1394"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1395"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1396"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1397"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#1398"
+msgstr "pojačanje"
+
+msgid "PROPERTY_TRANSLATION#1399"
+msgstr "Impedancija"
+
+msgid "PROPERTY_TRANSLATION#1400"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1401"
+msgstr "volumen"
+
+msgid "PROPERTY_TRANSLATION#1402"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1403"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1404"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1405"
+msgstr "Centrifuga kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1406"
+msgstr "maksimalni broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#1407"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1408"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1409"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1410"
+msgstr "Masa (kg)"
+
+msgid "PROPERTY_TRANSLATION#1411"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1412"
+msgstr "Duljina kabela"
+
+msgid "PROPERTY_TRANSLATION#1413"
+msgstr "A priključak"
+
+msgid "PROPERTY_TRANSLATION#1414"
+msgstr "B priključak"
+
+msgid "PROPERTY_TRANSLATION#1415"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1416"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#1417"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#1418"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1419"
+msgstr "Rezolucija"
+
+msgid "PROPERTY_TRANSLATION#1420"
+msgstr "Format slike"
+
+msgid "PROPERTY_TRANSLATION#1421"
+msgstr "Kontrast"
+
+msgid "PROPERTY_TRANSLATION#1422"
+msgstr "Osvježavanje slike"
+
+msgid "PROPERTY_TRANSLATION#1423"
+msgstr "Vidljivi kut"
+
+msgid "PROPERTY_TRANSLATION#1424"
+msgstr "Podržani standardi"
+
+msgid "PROPERTY_TRANSLATION#1425"
+msgstr "Tip tunera"
+
+msgid "PROPERTY_TRANSLATION#1426"
+msgstr "Izlazna snaga zvučnika"
+
+msgid "PROPERTY_TRANSLATION#1427"
+msgstr "Zvučni sustav"
+
+msgid "PROPERTY_TRANSLATION#1428"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1429"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1430"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#1431"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#1432"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#1433"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#1434"
+msgstr "Dekoderi"
+
+msgid "PROPERTY_TRANSLATION#1435"
+msgstr "Prihvaćeni"
+
+msgid "PROPERTY_TRANSLATION#1436"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1437"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1438"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1439"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1440"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#1441"
+msgstr "Prihvaćeni mediji"
+
+msgid "PROPERTY_TRANSLATION#1442"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#1443"
+msgstr "Mediji za snimanje"
+
+msgid "PROPERTY_TRANSLATION#1444"
+msgstr "Ugrađeni tvrdi disk"
+
+msgid "PROPERTY_TRANSLATION#1445"
+msgstr "dekoderi"
+
+msgid "PROPERTY_TRANSLATION#1446"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1447"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1448"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1449"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1450"
+msgstr "Čitač memorijskih karica"
+
+msgid "PROPERTY_TRANSLATION#1451"
+msgstr "Priključak"
+
+msgid "PROPERTY_TRANSLATION#1452"
+msgstr "Podržani audio formati"
+
+msgid "PROPERTY_TRANSLATION#1453"
+msgstr "Dekoderi"
+
+msgid "PROPERTY_TRANSLATION#1454"
+msgstr "Tvrdi disk"
+
+msgid "PROPERTY_TRANSLATION#1455"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1456"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1457"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1458"
+msgstr "Pordžani titlovi"
+
+msgid "PROPERTY_TRANSLATION#1459"
+msgstr "Operativni sustav"
+
+msgid "PROPERTY_TRANSLATION#1460"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1461"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#1462"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1463"
+msgstr "Video sustav"
+
+msgid "PROPERTY_TRANSLATION#1464"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1465"
+msgstr "način snimanja/player"
+
+msgid "PROPERTY_TRANSLATION#1466"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1467"
+msgstr "Veze"
+
+msgid "PROPERTY_TRANSLATION#1468"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1469"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1470"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1471"
+msgstr "Rezolucija"
+
+msgid "PROPERTY_TRANSLATION#1472"
+msgstr "Optični zoom"
+
+msgid "PROPERTY_TRANSLATION#1473"
+msgstr "Digitalni zoom"
+
+msgid "PROPERTY_TRANSLATION#1474"
+msgstr "Memorijska kartica"
+
+msgid "PROPERTY_TRANSLATION#1475"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1476"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1477"
+msgstr "LCD"
+
+msgid "PROPERTY_TRANSLATION#1478"
+msgstr "Veličina baterije"
+
+msgid "PROPERTY_TRANSLATION#1479"
+msgstr "USB"
+
+msgid "PROPERTY_TRANSLATION#1480"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#1481"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#1482"
+msgstr "broj utora za unutrašnje HDD"
+
+msgid "PROPERTY_TRANSLATION#1483"
+msgstr "LAN"
+
+msgid "PROPERTY_TRANSLATION#1484"
+msgstr "mrežni protokol"
+
+msgid "PROPERTY_TRANSLATION#1485"
+msgstr "Broj IP kamere"
+
+msgid "PROPERTY_TRANSLATION#1486"
+msgstr "Nivo buke"
+
+msgid "PROPERTY_TRANSLATION#1487"
+msgstr "priključci"
+
+msgid "PROPERTY_TRANSLATION#1488"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1489"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1490"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1491"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1492"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1493"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1494"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1495"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1496"
+msgstr "Brzina prijenosa"
+
+msgid "PROPERTY_TRANSLATION#1497"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#1498"
+msgstr "enkripcija"
+
+msgid "PROPERTY_TRANSLATION#1499"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1500"
+msgstr "kompatibilni uređaji"
+
+msgid "PROPERTY_TRANSLATION#1501"
+msgstr "Vrsta procesora"
+
+msgid "PROPERTY_TRANSLATION#1502"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#1503"
+msgstr "Veličina ekrana"
+
+msgid "PROPERTY_TRANSLATION#1504"
+msgstr "Rezolucija ekrana"
+
+msgid "PROPERTY_TRANSLATION#1505"
+msgstr "Memorija"
+
+msgid "PROPERTY_TRANSLATION#1506"
+msgstr "Proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#1507"
+msgstr "Operativni sistem"
+
+msgid "PROPERTY_TRANSLATION#1508"
+msgstr "Ugrađena kamera"
+
+msgid "PROPERTY_TRANSLATION#1509"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#1510"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1511"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1512"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#1513"
+msgstr "Kapacitet akumulatora"
+
+msgid "PROPERTY_TRANSLATION#1514"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#1515"
+msgstr "Prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#1516"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1517"
+msgstr "širina linije"
+
+msgid "PROPERTY_TRANSLATION#1518"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1519"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1520"
+msgstr "površina pisanja"
+
+msgid "PROPERTY_TRANSLATION#1521"
+msgstr "Materijal tijela olovke"
+
+msgid "PROPERTY_TRANSLATION#1522"
+msgstr "širina linije"
+
+msgid "PROPERTY_TRANSLATION#1523"
+msgstr "tip mina"
+
+msgid "PROPERTY_TRANSLATION#1524"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1525"
+msgstr "boja tinte"
+
+msgid "PROPERTY_TRANSLATION#1526"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1527"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1528"
+msgstr "čvrstoća"
+
+msgid "PROPERTY_TRANSLATION#1529"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1530"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1531"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1532"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1533"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1534"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1535"
+msgstr "kompatibilni uređaji"
+
+msgid "PROPERTY_TRANSLATION#1536"
+msgstr "podržani softver"
+
+msgid "PROPERTY_TRANSLATION#1537"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1538"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#1539"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1540"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1541"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1542"
+msgstr "čvrstoća"
+
+msgid "PROPERTY_TRANSLATION#1543"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1544"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1545"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1546"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1547"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1548"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1549"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1550"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1551"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1552"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1553"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1554"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1555"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1556"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1557"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1558"
+msgstr "broj stranica"
+
+msgid "PROPERTY_TRANSLATION#1559"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1560"
+msgstr "Dimenzije"
+
+msgid "PROPERTY_TRANSLATION#1561"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1562"
+msgstr "promjer rupa"
+
+msgid "PROPERTY_TRANSLATION#1563"
+msgstr "kapacitet bušenja"
+
+msgid "PROPERTY_TRANSLATION#1564"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1565"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#1566"
+msgstr "kapacitet klapanja"
+
+msgid "PROPERTY_TRANSLATION#1567"
+msgstr "udaljenost klapanja"
+
+msgid "PROPERTY_TRANSLATION#1568"
+msgstr "Vrsta spajalica"
+
+msgid "PROPERTY_TRANSLATION#1569"
+msgstr "veličina spajalica"
+
+msgid "PROPERTY_TRANSLATION#1570"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1571"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1572"
+msgstr "Materijal reznog ruba"
+
+msgid "PROPERTY_TRANSLATION#1573"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1574"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1575"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1576"
+msgstr "uzorak"
+
+msgid "PROPERTY_TRANSLATION#1577"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1578"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1579"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1580"
+msgstr "tip etiketa"
+
+msgid "PROPERTY_TRANSLATION#1581"
+msgstr "tip kaseta"
+
+msgid "PROPERTY_TRANSLATION#1582"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#1583"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1584"
+msgstr "svojstva"
+
+msgid "PROPERTY_TRANSLATION#1586"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1587"
+msgstr "veličina traka za ljepljenje"
+
+msgid "PROPERTY_TRANSLATION#1588"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1589"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1590"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1591"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1592"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1593"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1594"
+msgstr "veličina vizitke"
+
+msgid "PROPERTY_TRANSLATION#1595"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1596"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1597"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1598"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1599"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1600"
+msgstr "volumen"
+
+msgid "PROPERTY_TRANSLATION#1601"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1602"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1603"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1604"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1605"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1606"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1607"
+msgstr "broj komada"
+
+msgid "PROPERTY_TRANSLATION#1608"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1609"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1610"
+msgstr "etiketi"
+
+msgid "PROPERTY_TRANSLATION#1611"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1612"
+msgstr "broj znakova"
+
+msgid "PROPERTY_TRANSLATION#1613"
+msgstr "kapacitet rezanja"
+
+msgid "PROPERTY_TRANSLATION#1614"
+msgstr "veličina stola za rezanja"
+
+msgid "PROPERTY_TRANSLATION#1615"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1616"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1617"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1618"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1619"
+msgstr "Izvor napajanja"
+
+msgid "PROPERTY_TRANSLATION#1620"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1621"
+msgstr "površina ploča"
+
+msgid "PROPERTY_TRANSLATION#1622"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1623"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1624"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1625"
+msgstr "Primjenjivo"
+
+msgid "PROPERTY_TRANSLATION#1626"
+msgstr "veličina laminata"
+
+msgid "PROPERTY_TRANSLATION#1627"
+msgstr "vrijeme ugrijavanja"
+
+msgid "PROPERTY_TRANSLATION#1628"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1629"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1630"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1631"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1632"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#1633"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1634"
+msgstr "Debljina"
+
+msgid "PROPERTY_TRANSLATION#1635"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1636"
+msgstr "Površina"
+
+msgid "PROPERTY_TRANSLATION#1637"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1638"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1639"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1640"
+msgstr "Pakovanje"
+
+msgid "PROPERTY_TRANSLATION#1641"
+msgstr "kapacitet stranica"
+
+msgid "PROPERTY_TRANSLATION#1642"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1643"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#1644"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1645"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1646"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1647"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1648"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1649"
+msgstr "kompatibilna svijetijka"
+
+msgid "PROPERTY_TRANSLATION#1650"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1651"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1652"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1653"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1654"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1655"
+msgstr "Oblik"
+
+msgid "PROPERTY_TRANSLATION#1656"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1657"
+msgstr "Vijek trajanja"
+
+msgid "PROPERTY_TRANSLATION#1658"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1659"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1660"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1661"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1662"
+msgstr "širina"
+
+msgid "PROPERTY_TRANSLATION#1663"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1664"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#1665"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1666"
+msgstr "vanjska veličina"
+
+msgid "PROPERTY_TRANSLATION#1667"
+msgstr "unutrašnja veličina"
+
+msgid "PROPERTY_TRANSLATION#1668"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1669"
+msgstr "pohrana"
+
+msgid "PROPERTY_TRANSLATION#1670"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1671"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1672"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1673"
+msgstr "Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#1674"
+msgstr "Napajanje"
+
+msgid "PROPERTY_TRANSLATION#1675"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1676"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1677"
+msgstr "Ostale značajke"
+
+msgid "PROPERTY_TRANSLATION#1678"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1679"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1680"
+msgstr "pakiranje / komad"
+
+msgid "PROPERTY_TRANSLATION#1681"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1682"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1683"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1684"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1685"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1686"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1687"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#1688"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1689"
+msgstr "količina"
+
+msgid "PROPERTY_TRANSLATION#1690"
+msgstr "Površina"
+
+msgid "PROPERTY_TRANSLATION#1691"
+msgstr "trake"
+
+msgid "PROPERTY_TRANSLATION#1692"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1693"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1694"
+msgstr "kompatibilni uređaji"
+
+msgid "PROPERTY_TRANSLATION#1695"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1696"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1697"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1698"
+msgstr "veličina pohrane"
+
+msgid "PROPERTY_TRANSLATION#1699"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1700"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1701"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#1702"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1703"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1704"
+msgstr "Volumen"
+
+msgid "PROPERTY_TRANSLATION#1705"
+msgstr "Veličina trake za pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1706"
+msgstr "svojstva"
+
+msgid "PROPERTY_TRANSLATION#1707"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1708"
+msgstr "količina"
+
+msgid "PROPERTY_TRANSLATION#1709"
+msgstr "Podešavanje"
+
+msgid "PROPERTY_TRANSLATION#1710"
+msgstr "veličina tacne"
+
+msgid "PROPERTY_TRANSLATION#1711"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1712"
+msgstr "Boja kučišta"
+
+msgid "PROPERTY_TRANSLATION#1713"
+msgstr "Tapeserija"
+
+msgid "PROPERTY_TRANSLATION#1714"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1715"
+msgstr "Tehnologija"
+
+msgid "PROPERTY_TRANSLATION#1716"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#1717"
+msgstr "vrijeme promatranja"
+
+msgid "PROPERTY_TRANSLATION#1718"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1719"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1720"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1721"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1722"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1723"
+msgstr "Podešavanje"
+
+msgid "PROPERTY_TRANSLATION#1724"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1725"
+msgstr "broj sučelja"
+
+msgid "PROPERTY_TRANSLATION#1726"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1727"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#1728"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1729"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1730"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1731"
+msgstr "dužina zavarivanja"
+
+msgid "PROPERTY_TRANSLATION#1732"
+msgstr "debljina folije za plastifikator"
+
+msgid "PROPERTY_TRANSLATION#1733"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1734"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1735"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1736"
+msgstr "kompatibilna dimenzija"
+
+msgid "PROPERTY_TRANSLATION#1737"
+msgstr "nagiban"
+
+msgid "PROPERTY_TRANSLATION#1738"
+msgstr "usb ventilator"
+
+msgid "PROPERTY_TRANSLATION#1739"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#1740"
+msgstr "Kompatibilnost konzola"
+
+msgid "PROPERTY_TRANSLATION#1741"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1742"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1743"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1744"
+msgstr "veličine"
+
+msgid "PROPERTY_TRANSLATION#1745"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1746"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1747"
+msgstr "visina"
+
+msgid "PROPERTY_TRANSLATION#1748"
+msgstr "Broj dijelova"
+
+msgid "PROPERTY_TRANSLATION#1749"
+msgstr "Broj figurica"
+
+msgid "PROPERTY_TRANSLATION#1750"
+msgstr "Preporučena dob"
+
+msgid "PROPERTY_TRANSLATION#1751"
+msgstr "Do koliko godina?"
+
+msgid "PROPERTY_TRANSLATION#1752"
+msgstr "Tehnologija"
+
+msgid "PROPERTY_TRANSLATION#1753"
+msgstr "jezik"
+
+msgid "PROPERTY_TRANSLATION#1754"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#1755"
+msgstr "Zahtjeci sustava"
+
+msgid "PROPERTY_TRANSLATION#1756"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1757"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1758"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1759"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1760"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1761"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1762"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1763"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1764"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1765"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1766"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1767"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1768"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1769"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1770"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1771"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1772"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1773"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1774"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1775"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1776"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1777"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1778"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1779"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1780"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1781"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1782"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1783"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1784"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1785"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1786"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1787"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1788"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1789"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1790"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1791"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1792"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1793"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1794"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1795"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1796"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1797"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1798"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1799"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1800"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1801"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1802"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1803"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1804"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1805"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1806"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1807"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1808"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1809"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1810"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1811"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1812"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1813"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1814"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1815"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1816"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1817"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1818"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1819"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1820"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1821"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1822"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1823"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1824"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1825"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1826"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1827"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1828"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1829"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1830"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1831"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1832"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1833"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1834"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1835"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1836"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1837"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1838"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1839"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1840"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1841"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1842"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1843"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1844"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1845"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1846"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1847"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1848"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1849"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1850"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1851"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1852"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1853"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1854"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1855"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1856"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1857"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1858"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1859"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1860"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1861"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1862"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1863"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1864"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1865"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1866"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1867"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1868"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1869"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1870"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1871"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1872"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1873"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1874"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1875"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1876"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1877"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1878"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1879"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1880"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1881"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1882"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1883"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1884"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1885"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1886"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1887"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1888"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1889"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1890"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1891"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1892"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1893"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1894"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1895"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1896"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1897"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1898"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1899"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1900"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1901"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1902"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1903"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1904"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1905"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1906"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1907"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1908"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1909"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1910"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1911"
+msgstr "Parametri 2"
+
+msgid "PROPERTY_TRANSLATION#1912"
+msgstr "Parametri 3"
+
+msgid "PROPERTY_TRANSLATION#1913"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1914"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1915"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1916"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#1917"
+msgstr "priklljučak"
+
+msgid "PROPERTY_TRANSLATION#1918"
+msgstr "svojstva"
+
+msgid "PROPERTY_TRANSLATION#1919"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1920"
+msgstr "Preporučena dob"
+
+msgid "PROPERTY_TRANSLATION#1921"
+msgstr "Za koga je preporučena?"
+
+msgid "PROPERTY_TRANSLATION#1922"
+msgstr "Broj igrača"
+
+msgid "PROPERTY_TRANSLATION#1923"
+msgstr "Zahtjevnost baterije"
+
+msgid "PROPERTY_TRANSLATION#1924"
+msgstr "Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#1925"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#1926"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1927"
+msgstr "dužina žica"
+
+msgid "PROPERTY_TRANSLATION#1928"
+msgstr "Značajke"
+
+msgid "PROPERTY_TRANSLATION#1929"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1930"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#1931"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#1932"
+msgstr "-"
+
+msgid "PROPERTY_TRANSLATION#1933"
+msgstr "-"
+
+msgid "PROPERTY_TRANSLATION#1934"
+msgstr "-"
+
+msgid "PROPERTY_TRANSLATION#1935"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#1936"
+msgstr "veličina/tip"
+
+msgid "PROPERTY_TRANSLATION#1937"
+msgstr "Napon"
+
+msgid "PROPERTY_TRANSLATION#1938"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1939"
+msgstr "nešto"
+
+msgid "PROPERTY_TRANSLATION#1940"
+msgstr "nešto"
+
+msgid "PROPERTY_TRANSLATION#1941"
+msgstr "nešto"
+
+msgid "PROPERTY_TRANSLATION#1942"
+msgstr "nešto"
+
+msgid "PROPERTY_TRANSLATION#1943"
+msgstr "test2"
+
+msgid "PROPERTY_TRANSLATION#1944"
+msgstr "hosting"
+
+msgid "PROPERTY_TRANSLATION#1945"
+msgstr "bežična i mobilna mreža"
+
+msgid "PROPERTY_TRANSLATION#1946"
+msgstr "veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#1947"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#1948"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1949"
+msgstr "kamere, foto i video snimanja"
+
+msgid "PROPERTY_TRANSLATION#1950"
+msgstr "napon i baterija"
+
+msgid "PROPERTY_TRANSLATION#1951"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#1952"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1953"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1954"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1955"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1956"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#1957"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1958"
+msgstr "Klasifikacija"
+
+msgid "PROPERTY_TRANSLATION#1959"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1960"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1961"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1962"
+msgstr "veličina trupca"
+
+msgid "PROPERTY_TRANSLATION#1963"
+msgstr "Priključni navoj bušnog vretena"
+
+msgid "PROPERTY_TRANSLATION#1964"
+msgstr "Broj obrtaja u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#1965"
+msgstr "Energija udarca"
+
+msgid "PROPERTY_TRANSLATION#1966"
+msgstr "Broj udaraca u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#1967"
+msgstr "Učinak bušenja"
+
+msgid "PROPERTY_TRANSLATION#1968"
+msgstr "Ø bušenja drva"
+
+msgid "PROPERTY_TRANSLATION#1969"
+msgstr "Ø bušenja čelika"
+
+msgid "PROPERTY_TRANSLATION#1970"
+msgstr "Ø bušenja zidova"
+
+msgid "PROPERTY_TRANSLATION#1971"
+msgstr "Ø bušenja betona"
+
+msgid "PROPERTY_TRANSLATION#1972"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#1973"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1974"
+msgstr "Broj okretaja u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#1975"
+msgstr "Promjer ploče"
+
+msgid "PROPERTY_TRANSLATION#1976"
+msgstr "oscilacija"
+
+msgid "PROPERTY_TRANSLATION#1977"
+msgstr "Veličina brusenja"
+
+msgid "PROPERTY_TRANSLATION#1978"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#1979"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1980"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1981"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1982"
+msgstr "Broj okretaja u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#1983"
+msgstr "Radna širina"
+
+msgid "PROPERTY_TRANSLATION#1984"
+msgstr "Dubina reza"
+
+msgid "PROPERTY_TRANSLATION#1985"
+msgstr "Falcmélység"
+
+msgid "PROPERTY_TRANSLATION#1986"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#1987"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1988"
+msgstr "Broj obrtaja u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#1989"
+msgstr "Dubina glodanja"
+
+msgid "PROPERTY_TRANSLATION#1990"
+msgstr "Promjer steznih kliješta"
+
+msgid "PROPERTY_TRANSLATION#1991"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#1992"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#1993"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1994"
+msgstr "Prazan hod stopa"
+
+msgid "PROPERTY_TRANSLATION#1995"
+msgstr "duljina udaraca"
+
+msgid "PROPERTY_TRANSLATION#1996"
+msgstr "Dubina reza"
+
+msgid "PROPERTY_TRANSLATION#1997"
+msgstr "U drvu"
+
+msgid "PROPERTY_TRANSLATION#1998"
+msgstr "U metalu"
+
+msgid "PROPERTY_TRANSLATION#1999"
+msgstr "u plastici"
+
+msgid "PROPERTY_TRANSLATION#2000"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2001"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2002"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2003"
+msgstr "Broj okretaja prazne brzine"
+
+msgid "PROPERTY_TRANSLATION#2004"
+msgstr "veličina stalka"
+
+msgid "PROPERTY_TRANSLATION#2005"
+msgstr "kockast"
+
+msgid "PROPERTY_TRANSLATION#2006"
+msgstr "delta trokut"
+
+msgid "PROPERTY_TRANSLATION#2007"
+msgstr "excenter brusilica"
+
+msgid "PROPERTY_TRANSLATION#2008"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2009"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2010"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2011"
+msgstr "temperatura"
+
+msgid "PROPERTY_TRANSLATION#2012"
+msgstr "Prijenos zraka"
+
+msgid "PROPERTY_TRANSLATION#2013"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2014"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2015"
+msgstr "Napon"
+
+msgid "PROPERTY_TRANSLATION#2016"
+msgstr "Kapacitet akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2017"
+msgstr "Tip akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2018"
+msgstr "Max snaga"
+
+msgid "PROPERTY_TRANSLATION#2019"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2020"
+msgstr "Radni tlak"
+
+msgid "PROPERTY_TRANSLATION#2021"
+msgstr "snaga"
+
+msgid "PROPERTY_TRANSLATION#2022"
+msgstr "potrošnja zraka"
+
+msgid "PROPERTY_TRANSLATION#2023"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#2024"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2025"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2026"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2027"
+msgstr "Max Pucanje"
+
+msgid "PROPERTY_TRANSLATION#2028"
+msgstr "Kuke"
+
+msgid "PROPERTY_TRANSLATION#2029"
+msgstr "ekseri"
+
+msgid "PROPERTY_TRANSLATION#2030"
+msgstr "Kapacitet spremnika"
+
+msgid "PROPERTY_TRANSLATION#2031"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2032"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2033"
+msgstr "širina"
+
+msgid "PROPERTY_TRANSLATION#2034"
+msgstr "debljina kuke"
+
+msgid "PROPERTY_TRANSLATION#2035"
+msgstr "dužina kuke"
+
+msgid "PROPERTY_TRANSLATION#2036"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2037"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2038"
+msgstr "Spremnik"
+
+msgid "PROPERTY_TRANSLATION#2039"
+msgstr "Max. prskanje"
+
+msgid "PROPERTY_TRANSLATION#2040"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2041"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2042"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2043"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2044"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2045"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2046"
+msgstr "Promjer stifta"
+
+msgid "PROPERTY_TRANSLATION#2047"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2048"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2049"
+msgstr "Napon"
+
+msgid "PROPERTY_TRANSLATION#2050"
+msgstr "Kapacitet baterije"
+
+msgid "PROPERTY_TRANSLATION#2051"
+msgstr "Tip stroja"
+
+msgid "PROPERTY_TRANSLATION#2052"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2053"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2054"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2055"
+msgstr "promjer"
+
+msgid "PROPERTY_TRANSLATION#2056"
+msgstr "duljina"
+
+msgid "PROPERTY_TRANSLATION#2057"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2058"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2059"
+msgstr "sadržaj"
+
+msgid "PROPERTY_TRANSLATION#2060"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2061"
+msgstr "veličine"
+
+msgid "PROPERTY_TRANSLATION#2062"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#2063"
+msgstr "Vanjski promjer"
+
+msgid "PROPERTY_TRANSLATION#2064"
+msgstr "Broj zubi"
+
+msgid "PROPERTY_TRANSLATION#2065"
+msgstr "širina ploče"
+
+msgid "PROPERTY_TRANSLATION#2066"
+msgstr "Promjer diska"
+
+msgid "PROPERTY_TRANSLATION#2067"
+msgstr "Max. brzina okretaja"
+
+msgid "PROPERTY_TRANSLATION#2068"
+msgstr "Unutarnji promjer otvora"
+
+msgid "PROPERTY_TRANSLATION#2069"
+msgstr "Promjer diska"
+
+msgid "PROPERTY_TRANSLATION#2070"
+msgstr "Max. brzina okretaja"
+
+msgid "PROPERTY_TRANSLATION#2071"
+msgstr "Vanjski promjer"
+
+msgid "PROPERTY_TRANSLATION#2072"
+msgstr "Vidno polje"
+
+msgid "PROPERTY_TRANSLATION#2073"
+msgstr "Max. Brzina okretaja"
+
+msgid "PROPERTY_TRANSLATION#2074"
+msgstr "Tip stroja"
+
+msgid "PROPERTY_TRANSLATION#2075"
+msgstr "Sadržaj"
+
+msgid "PROPERTY_TRANSLATION#2076"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2077"
+msgstr "Debljina"
+
+msgid "PROPERTY_TRANSLATION#2078"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2079"
+msgstr "Veličina šipke"
+
+msgid "PROPERTY_TRANSLATION#2080"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#2081"
+msgstr "pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2082"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2083"
+msgstr "Vidno polje"
+
+msgid "PROPERTY_TRANSLATION#2084"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2085"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2086"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2087"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2088"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2089"
+msgstr "priključak"
+
+msgid "PROPERTY_TRANSLATION#2090"
+msgstr "Cijev"
+
+msgid "PROPERTY_TRANSLATION#2091"
+msgstr "tlakomjer"
+
+msgid "PROPERTY_TRANSLATION#2092"
+msgstr "Zahtjev protoka zraka"
+
+msgid "PROPERTY_TRANSLATION#2093"
+msgstr "Max. Tlak"
+
+msgid "PROPERTY_TRANSLATION#2094"
+msgstr "Priključak"
+
+msgid "PROPERTY_TRANSLATION#2095"
+msgstr "Dodatak"
+
+msgid "PROPERTY_TRANSLATION#2096"
+msgstr "Veličina spremnika"
+
+msgid "PROPERTY_TRANSLATION#2097"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2098"
+msgstr "pritisak"
+
+msgid "PROPERTY_TRANSLATION#2099"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2100"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#2101"
+msgstr "Vanjska širina"
+
+msgid "PROPERTY_TRANSLATION#2102"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2103"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#2104"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2105"
+msgstr "utičnice"
+
+msgid "PROPERTY_TRANSLATION#2106"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2107"
+msgstr "Okvir / Box"
+
+msgid "PROPERTY_TRANSLATION#2108"
+msgstr "Pakovanje"
+
+msgid "PROPERTY_TRANSLATION#2109"
+msgstr "Glave"
+
+msgid "PROPERTY_TRANSLATION#2110"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2111"
+msgstr "pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2112"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2113"
+msgstr "Strojni / Ručni"
+
+msgid "PROPERTY_TRANSLATION#2114"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2115"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2116"
+msgstr "Sadržaj"
+
+msgid "PROPERTY_TRANSLATION#2117"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#2118"
+msgstr "duljina trake"
+
+msgid "PROPERTY_TRANSLATION#2119"
+msgstr "Širina trake"
+
+msgid "PROPERTY_TRANSLATION#2120"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2121"
+msgstr "točnost"
+
+msgid "PROPERTY_TRANSLATION#2122"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#2123"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2124"
+msgstr "Preciznost"
+
+msgid "PROPERTY_TRANSLATION#2125"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2126"
+msgstr "pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2127"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2128"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2129"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2130"
+msgstr "Dizajn"
+
+msgid "PROPERTY_TRANSLATION#2131"
+msgstr "Kategorija"
+
+msgid "PROPERTY_TRANSLATION#2132"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2133"
+msgstr "Tip stroja"
+
+msgid "PROPERTY_TRANSLATION#2134"
+msgstr "pritisak"
+
+msgid "PROPERTY_TRANSLATION#2135"
+msgstr "Prijenos vode"
+
+msgid "PROPERTY_TRANSLATION#2136"
+msgstr "Priključna snaga"
+
+msgid "PROPERTY_TRANSLATION#2137"
+msgstr "težina"
+
+msgid "PROPERTY_TRANSLATION#2138"
+msgstr "Duljina"
+
+msgid "PROPERTY_TRANSLATION#2139"
+msgstr "Duljina oštrice"
+
+msgid "PROPERTY_TRANSLATION#2140"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2141"
+msgstr "Duljina"
+
+msgid "PROPERTY_TRANSLATION#2142"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2143"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#2144"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2145"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2146"
+msgstr "Duljina drške"
+
+msgid "PROPERTY_TRANSLATION#2147"
+msgstr "Veličina čavli"
+
+msgid "PROPERTY_TRANSLATION#2148"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2149"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2150"
+msgstr "Dizajn"
+
+msgid "PROPERTY_TRANSLATION#2151"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2152"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2153"
+msgstr "Dubina"
+
+msgid "PROPERTY_TRANSLATION#2154"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2155"
+msgstr "priključak za karticu"
+
+msgid "PROPERTY_TRANSLATION#2156"
+msgstr "priključak za karticu"
+
+msgid "PROPERTY_TRANSLATION#2157"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#2158"
+msgstr "dužina"
+
+msgid "PROPERTY_TRANSLATION#2159"
+msgstr "Dizajn"
+
+msgid "PROPERTY_TRANSLATION#2160"
+msgstr "Sprinkler površina"
+
+msgid "PROPERTY_TRANSLATION#2161"
+msgstr "Tip prskanja"
+
+msgid "PROPERTY_TRANSLATION#2162"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2163"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2164"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2165"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2166"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2167"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2168"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2169"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2170"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2171"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2172"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2173"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2174"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2175"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2176"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2177"
+msgstr "primjenjivo područje"
+
+msgid "PROPERTY_TRANSLATION#2178"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2179"
+msgstr "Tip akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2180"
+msgstr "Napon baterije"
+
+msgid "PROPERTY_TRANSLATION#2181"
+msgstr "Širina rezanja"
+
+msgid "PROPERTY_TRANSLATION#2182"
+msgstr "Volumen prikupljavanja trave"
+
+msgid "PROPERTY_TRANSLATION#2183"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2184"
+msgstr "Preporučujemo travnjak"
+
+msgid "PROPERTY_TRANSLATION#2185"
+msgstr "Tip akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2186"
+msgstr "Napon baterije"
+
+msgid "PROPERTY_TRANSLATION#2187"
+msgstr "promjer kruga za rezanje"
+
+msgid "PROPERTY_TRANSLATION#2188"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2189"
+msgstr "Tip akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2190"
+msgstr "Napon baterije"
+
+msgid "PROPERTY_TRANSLATION#2191"
+msgstr "širina noža"
+
+msgid "PROPERTY_TRANSLATION#2192"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2193"
+msgstr "Tip akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2194"
+msgstr "Napon baterije"
+
+msgid "PROPERTY_TRANSLATION#2195"
+msgstr "Duljina noža"
+
+msgid "PROPERTY_TRANSLATION#2196"
+msgstr "Korak zubaca"
+
+msgid "PROPERTY_TRANSLATION#2197"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2198"
+msgstr "Tip akumulatora"
+
+msgid "PROPERTY_TRANSLATION#2199"
+msgstr "Napon baterije"
+
+msgid "PROPERTY_TRANSLATION#2200"
+msgstr "Snaga rezanja"
+
+msgid "PROPERTY_TRANSLATION#2201"
+msgstr "Duljina pile"
+
+msgid "PROPERTY_TRANSLATION#2202"
+msgstr "vrijeme punjenja baterije"
+
+msgid "PROPERTY_TRANSLATION#2203"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2204"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2205"
+msgstr "širina rezanja"
+
+msgid "PROPERTY_TRANSLATION#2206"
+msgstr "Zapremina sakupljača"
+
+msgid "PROPERTY_TRANSLATION#2207"
+msgstr "visina rezanja"
+
+msgid "PROPERTY_TRANSLATION#2208"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2209"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2210"
+msgstr "Max. Tlak"
+
+msgid "PROPERTY_TRANSLATION#2211"
+msgstr "Max. Dužina"
+
+msgid "PROPERTY_TRANSLATION#2212"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2213"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2214"
+msgstr "Duljina noža"
+
+msgid "PROPERTY_TRANSLATION#2215"
+msgstr "Broj zrna za rezanje"
+
+msgid "PROPERTY_TRANSLATION#2216"
+msgstr "Kapacitet spremnika za gorivo"
+
+msgid "PROPERTY_TRANSLATION#2217"
+msgstr "brzina lanca"
+
+msgid "PROPERTY_TRANSLATION#2218"
+msgstr "težina stroja"
+
+msgid "PROPERTY_TRANSLATION#2219"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2220"
+msgstr "Kapacitet cilindara"
+
+msgid "PROPERTY_TRANSLATION#2221"
+msgstr "Brzina lanca"
+
+msgid "PROPERTY_TRANSLATION#2222"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#2223"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2224"
+msgstr "širina ventilacije"
+
+msgid "PROPERTY_TRANSLATION#2225"
+msgstr "Podesivanje visine"
+
+msgid "PROPERTY_TRANSLATION#2226"
+msgstr "Volumen prikupljavanja trave"
+
+msgid "PROPERTY_TRANSLATION#2227"
+msgstr "težina"
+
+msgid "PROPERTY_TRANSLATION#2228"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2229"
+msgstr "Protok"
+
+msgid "PROPERTY_TRANSLATION#2230"
+msgstr "torba"
+
+msgid "PROPERTY_TRANSLATION#2231"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2232"
+msgstr "Usisni učinak"
+
+msgid "PROPERTY_TRANSLATION#2233"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2234"
+msgstr "dužina rezanja"
+
+msgid "PROPERTY_TRANSLATION#2235"
+msgstr "Udaljenost noža"
+
+msgid "PROPERTY_TRANSLATION#2236"
+msgstr "težina stroja"
+
+msgid "PROPERTY_TRANSLATION#2237"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2238"
+msgstr "Promjer kruga za rezanje"
+
+msgid "PROPERTY_TRANSLATION#2239"
+msgstr "težina stroja"
+
+msgid "PROPERTY_TRANSLATION#2240"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2241"
+msgstr "Duljina lemilice"
+
+msgid "PROPERTY_TRANSLATION#2242"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#2243"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#2244"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2245"
+msgstr "Max. Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#2246"
+msgstr "Duljina"
+
+msgid "PROPERTY_TRANSLATION#2247"
+msgstr "Priključna snaga"
+
+msgid "PROPERTY_TRANSLATION#2248"
+msgstr "Punjenje"
+
+msgid "PROPERTY_TRANSLATION#2249"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2250"
+msgstr "Napon"
+
+msgid "PROPERTY_TRANSLATION#2251"
+msgstr "Usisna snaga"
+
+msgid "PROPERTY_TRANSLATION#2252"
+msgstr "Kapacitet spremnika"
+
+msgid "PROPERTY_TRANSLATION#2253"
+msgstr "Zračni tlak"
+
+msgid "PROPERTY_TRANSLATION#2254"
+msgstr "Napajanje"
+
+msgid "PROPERTY_TRANSLATION#2255"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2256"
+msgstr "Jačina svjetlosti"
+
+msgid "PROPERTY_TRANSLATION#2257"
+msgstr "Trajanje"
+
+msgid "PROPERTY_TRANSLATION#2258"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#2259"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#2260"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#2261"
+msgstr "Radno vrijeme"
+
+msgid "PROPERTY_TRANSLATION#2262"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2263"
+msgstr "Broj Ledova"
+
+msgid "PROPERTY_TRANSLATION#2264"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#2265"
+msgstr "Kut"
+
+msgid "PROPERTY_TRANSLATION#2266"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2267"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2268"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2269"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2270"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2271"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2272"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2273"
+msgstr "Duljina kabela"
+
+msgid "PROPERTY_TRANSLATION#2274"
+msgstr "Napajenje"
+
+msgid "PROPERTY_TRANSLATION#2275"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#2276"
+msgstr "Duljina kabela"
+
+msgid "PROPERTY_TRANSLATION#2277"
+msgstr "Duljina kabela"
+
+msgid "PROPERTY_TRANSLATION#2278"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#2279"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2280"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2281"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2282"
+msgstr "veličina spremnika"
+
+msgid "PROPERTY_TRANSLATION#2283"
+msgstr "Protok zraka"
+
+msgid "PROPERTY_TRANSLATION#2284"
+msgstr "Čišćenje"
+
+msgid "PROPERTY_TRANSLATION#2285"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2286"
+msgstr "Kapacitet grijanja (W)"
+
+msgid "PROPERTY_TRANSLATION#2287"
+msgstr "Max. Parni tlak"
+
+msgid "PROPERTY_TRANSLATION#2288"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2289"
+msgstr "Max. Parni tlak"
+
+msgid "PROPERTY_TRANSLATION#2290"
+msgstr "Vakuum"
+
+msgid "PROPERTY_TRANSLATION#2291"
+msgstr "kapacitet grijanja (W) "
+
+msgid "PROPERTY_TRANSLATION#2292"
+msgstr "Max. snaga (W) "
+
+msgid "PROPERTY_TRANSLATION#2293"
+msgstr "Obujam spremnika (l) "
+
+msgid "PROPERTY_TRANSLATION#2294"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2295"
+msgstr "pritisak"
+
+msgid "PROPERTY_TRANSLATION#2296"
+msgstr "Prijenos vode"
+
+msgid "PROPERTY_TRANSLATION#2297"
+msgstr "težina"
+
+msgid "PROPERTY_TRANSLATION#2298"
+msgstr "Radna širina"
+
+msgid "PROPERTY_TRANSLATION#2299"
+msgstr "spremnik za kontaminaciju"
+
+msgid "PROPERTY_TRANSLATION#2300"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2301"
+msgstr "Snaga motora"
+
+msgid "PROPERTY_TRANSLATION#2302"
+msgstr "Prijenos vode"
+
+msgid "PROPERTY_TRANSLATION#2303"
+msgstr "težina"
+
+msgid "PROPERTY_TRANSLATION#2304"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2305"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2306"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2307"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2308"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#2309"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2310"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2311"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#2312"
+msgstr "Točnost mjerenja"
+
+msgid "PROPERTY_TRANSLATION#2313"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#2314"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#2315"
+msgstr "baterija"
+
+msgid "PROPERTY_TRANSLATION#2316"
+msgstr "otkrivene materijale"
+
+msgid "PROPERTY_TRANSLATION#2317"
+msgstr "baterija"
+
+msgid "PROPERTY_TRANSLATION#2318"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2319"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#2320"
+msgstr "tip lasera"
+
+msgid "PROPERTY_TRANSLATION#2321"
+msgstr "Veličine"
+
+msgid "PROPERTY_TRANSLATION#2322"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2323"
+msgstr "raspon rada"
+
+msgid "PROPERTY_TRANSLATION#2324"
+msgstr "baterija"
+
+msgid "PROPERTY_TRANSLATION#2325"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2326"
+msgstr "radna visina"
+
+msgid "PROPERTY_TRANSLATION#2327"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2328"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2329"
+msgstr "Broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#2330"
+msgstr "volumen spremnika"
+
+msgid "PROPERTY_TRANSLATION#2331"
+msgstr "Max. Tlak"
+
+msgid "PROPERTY_TRANSLATION#2332"
+msgstr "Duljina"
+
+msgid "PROPERTY_TRANSLATION#2333"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2334"
+msgstr "Broj obrtaja u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#2335"
+msgstr "Vidno polje"
+
+msgid "PROPERTY_TRANSLATION#2336"
+msgstr "kapacitet mješanja"
+
+msgid "PROPERTY_TRANSLATION#2337"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2338"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#2339"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#2340"
+msgstr "Brzina pisanja"
+
+msgid "PROPERTY_TRANSLATION#2341"
+msgstr "Brzina čitanja"
+
+msgid "PROPERTY_TRANSLATION#2342"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2343"
+msgstr "sila cijepanja"
+
+msgid "PROPERTY_TRANSLATION#2344"
+msgstr "dužina cijepanja"
+
+msgid "PROPERTY_TRANSLATION#2345"
+msgstr "radna dužina"
+
+msgid "PROPERTY_TRANSLATION#2346"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2347"
+msgstr "može se bijeliti"
+
+msgid "PROPERTY_TRANSLATION#2348"
+msgstr "Perljiv"
+
+msgid "PROPERTY_TRANSLATION#2349"
+msgstr "može se sušiti"
+
+msgid "PROPERTY_TRANSLATION#2350"
+msgstr "može sepeglat"
+
+msgid "PROPERTY_TRANSLATION#2351"
+msgstr "kemijsko čišćenje"
+
+msgid "PROPERTY_TRANSLATION#2352"
+msgstr "Može se ribati"
+
+msgid "PROPERTY_TRANSLATION#2353"
+msgstr "sadržalj"
+
+msgid "PROPERTY_TRANSLATION#2354"
+msgstr "Perljiv"
+
+msgid "PROPERTY_TRANSLATION#2355"
+msgstr "Može se ribati"
+
+msgid "PROPERTY_TRANSLATION#2356"
+msgstr "Uzorak podudarenje"
+
+msgid "PROPERTY_TRANSLATION#2357"
+msgstr "veličina uzorka"
+
+msgid "PROPERTY_TRANSLATION#2358"
+msgstr "Čišćenje"
+
+msgid "PROPERTY_TRANSLATION#2359"
+msgstr "Uklonjivost"
+
+msgid "PROPERTY_TRANSLATION#2360"
+msgstr "Ljepljenje"
+
+msgid "PROPERTY_TRANSLATION#2361"
+msgstr "Lightfastness"
+
+msgid "PROPERTY_TRANSLATION#2362"
+msgstr "Design"
+
+msgid "PROPERTY_TRANSLATION#2363"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#2364"
+msgstr "Rezolucija zaslona"
+
+msgid "PROPERTY_TRANSLATION#2365"
+msgstr "Prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#2366"
+msgstr "Veza"
+
+msgid "PROPERTY_TRANSLATION#2367"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#2368"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#2369"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2370"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2371"
+msgstr "Operativni sistem"
+
+msgid "PROPERTY_TRANSLATION#2372"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2373"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2374"
+msgstr "Max. veličina prostora"
+
+msgid "PROPERTY_TRANSLATION#2375"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2376"
+msgstr "motor"
+
+msgid "PROPERTY_TRANSLATION#2377"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2378"
+msgstr "mrežni napon"
+
+msgid "PROPERTY_TRANSLATION#2379"
+msgstr "struja zavarivanja"
+
+msgid "PROPERTY_TRANSLATION#2380"
+msgstr "promjer"
+
+msgid "PROPERTY_TRANSLATION#2381"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2382"
+msgstr "visina"
+
+msgid "PROPERTY_TRANSLATION#2383"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#2384"
+msgstr "trajanje"
+
+msgid "PROPERTY_TRANSLATION#2385"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2386"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2387"
+msgstr "ograničena težina"
+
+msgid "PROPERTY_TRANSLATION#2388"
+msgstr "sigurnosni pojas"
+
+msgid "PROPERTY_TRANSLATION#2389"
+msgstr "Dodatne funkcije"
+
+msgid "PROPERTY_TRANSLATION#2390"
+msgstr "mrežni priključak"
+
+msgid "PROPERTY_TRANSLATION#2391"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2392"
+msgstr "Max. Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#2393"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#2394"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2395"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#2396"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#2397"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#2398"
+msgstr "visina"
+
+msgid "PROPERTY_TRANSLATION#2399"
+msgstr "veličina košarkaškog tablica"
+
+msgid "PROPERTY_TRANSLATION#2400"
+msgstr "materijal prstena"
+
+msgid "PROPERTY_TRANSLATION#2401"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2402"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#2403"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#2404"
+msgstr "Opterećenje / težina, korisnik"
+
+msgid "PROPERTY_TRANSLATION#2405"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2406"
+msgstr "Max. Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#2407"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#2408"
+msgstr "Promjer"
+
+msgid "PROPERTY_TRANSLATION#2409"
+msgstr "promjer površine za skakanje"
+
+msgid "PROPERTY_TRANSLATION#2410"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#2411"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2412"
+msgstr "debljina gornje ploče stola"
+
+msgid "PROPERTY_TRANSLATION#2413"
+msgstr "ostale svojstva"
+
+msgid "PROPERTY_TRANSLATION#2414"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2415"
+msgstr "boja"
+
+msgid "PROPERTY_TRANSLATION#2416"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#2417"
+msgstr "Grlo"
+
+msgid "PROPERTY_TRANSLATION#2418"
+msgstr "žarulju ima?"
+
+msgid "PROPERTY_TRANSLATION#2419"
+msgstr "nijansa boje"
+
+msgid "PROPERTY_TRANSLATION#2420"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#2421"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#2422"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2423"
+msgstr "svojstva ispitivanja"
+
+msgid "PROPERTY_TRANSLATION#2424"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2425"
+msgstr "Širina rada"
+
+msgid "PROPERTY_TRANSLATION#2427"
+msgstr "broj osobe"
+
+msgid "PROPERTY_TRANSLATION#2428"
+msgstr "Szín"
+
+msgid "PROPERTY_TRANSLATION#2429"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2430"
+msgstr "Volumen"
+
+msgid "PROPERTY_TRANSLATION#2431"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#2432"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2433"
+msgstr "materijal"
+
+msgid "PROPERTY_TRANSLATION#2436"
+msgstr "Sigurnosna brava"
+
+msgid "PROPERTY_TRANSLATION#2437"
+msgstr "Vrste životinja"
+
+msgid "PROPERTY_TRANSLATION#2438"
+msgstr "Dob"
+
+msgid "PROPERTY_TRANSLATION#2439"
+msgstr "Pakovanje"
+
+msgid "PROPERTY_TRANSLATION#2440"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2441"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#2442"
+msgstr "Kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2443"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#2444"
+msgstr "Ostale funkcije"
+
+msgid "PROPERTY_TRANSLATION#2445"
+msgstr "Dodaci"
+
+msgid "PROPERTY_TRANSLATION#2446"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#2447"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#2448"
+msgstr "Dužina"
+
+msgid "PROPERTY_TRANSLATION#2449"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#2450"
+msgstr "Napon"
+
+msgid "PROPERTY_TRANSLATION#2451"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#2452"
+msgstr "Za koju visinu je namjenjen? (cm)"
+
+msgid "PROPERTY_TRANSLATION#2453"
+msgstr "Veličina (inch)"
+
+msgid "PROPERTY_TRANSLATION#2454"
+msgstr "Vázméret"
+
+msgid "PROPERTY_TRANSLATION#2455"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#2456"
+msgstr "Težina (kg)"
+
+msgid "PROPERTY_TRANSLATION#2457"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#2458"
+msgstr "Broj pranja"
+
+msgid "PROPERTY_TRANSLATION#2459"
+msgstr "Pakovanje"
+
+msgid "PROPERTY_TRANSLATION#2462"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#2463"
+msgstr "Spol"
+
+msgid "PROPERTY_TRANSLATION#2464"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2465"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#2466"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2467"
+msgstr "naćin rada"
+
+msgid "PROPERTY_TRANSLATION#2468"
+msgstr "lopatu za snijeg širina"
+
+msgid "PROPERTY_TRANSLATION#2469"
+msgstr "lopatu za snijeg visina"
+
+msgid "PROPERTY_TRANSLATION#2470"
+msgstr "Težina (kg)"
+
+msgid "PROPERTY_TRANSLATION#2471"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#2472"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#2473"
+msgstr "Dužina remena"
+
+msgid "PROPERTY_TRANSLATION#2474"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#2475"
+msgstr "Típus"
+
+msgid "PROPERTY_TRANSLATION#2476"
+msgstr "Rok"
+
+msgid "PROPERTY_TRANSLATION#2477"
+msgstr "Index ažuriranja slika"
+
+msgid "PROPERTY_TRANSLATION#2478"
+msgstr "Izmjenjivi objektiv"
+
+msgid "PROPERTY_TRANSLATION#2479"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2480"
+msgstr "HDMI izlaz"
+
+msgid "PROPERTY_TRANSLATION#2481"
+msgstr "bateriju pored"
+
+msgid "PROPERTY_TRANSLATION#2482"
+msgstr "Rezolucija"
+
+msgid "PROPERTY_TRANSLATION#2483"
+msgstr "Zoom"
+
+msgid "PROPERTY_TRANSLATION#2484"
+msgstr "GGS-t hozzá?"
+
+msgid "PROPERTY_TRANSLATION#2485"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#2486"
+msgstr "Struja za punjenje"
+
+msgid "PROPERTY_TRANSLATION#2487"
+msgstr "objektiv poklopac"
+
+msgid "PROPERTY_TRANSLATION#2488"
+msgstr "Preporučite krpu?"
+
+msgid "PROPERTY_TRANSLATION#2489"
+msgstr "objektiv poklopac"
+
+msgid "PROPERTY_TRANSLATION#2490"
+msgstr "Preporučite krpu?"
+
+msgid "PROPERTY_TRANSLATION#2491"
+msgstr "Nudite za druge proizvode?"
+
+msgid "PROPERTY_TRANSLATION#2492"
+msgstr "Broj tipke"
+
+msgid "PROPERTY_TRANSLATION#2493"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2494"
+msgstr "želite grafićku karticu?"
+
+msgid "PROPERTY_TRANSLATION#2495"
+msgstr "Tip procesora"
+
+msgid "PROPERTY_TRANSLATION#2496"
+msgstr "Veličina memorije"
+
+msgid "PROPERTY_TRANSLATION#2497"
+msgstr "Tip grafičke kartice"
+
+msgid "PROPERTY_TRANSLATION#2498"
+msgstr "Kapacitet tvrodg diska"
+
+msgid "PROPERTY_TRANSLATION#2499"
+msgstr "nudite memorijsku karticu?"
+
+msgid "PROPERTY_TRANSLATION#2500"
+msgstr "Bezprekidno napajanje?"
+
+msgid "PROPERTY_TRANSLATION#2501"
+msgstr "Csatlakozó KULCShoz!"
+
+msgid "PROPERTY_TRANSLATION#2502"
+msgstr "Učitavanje"
+
+msgid "PROPERTY_TRANSLATION#2503"
+msgstr "USB priključci"
+
+msgid "PROPERTY_TRANSLATION#2504"
+msgstr "Firewire priključci"
+
+msgid "PROPERTY_TRANSLATION#2505"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#2506"
+msgstr "Unutarnji priključci"
+
+msgid "PROPERTY_TRANSLATION#2507"
+msgstr "Külsõ csat. KULCShoz!!!"
+
+msgid "PROPERTY_TRANSLATION#2508"
+msgstr "Preporučujete za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2509"
+msgstr "Osjetljivost (DPI)"
+
+msgid "PROPERTY_TRANSLATION#2510"
+msgstr "Broj tipki"
+
+msgid "PROPERTY_TRANSLATION#2511"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#2512"
+msgstr "nudite za poljačalo"
+
+msgid "PROPERTY_TRANSLATION#2513"
+msgstr "prijenosni zvučnik?"
+
+msgid "PROPERTY_TRANSLATION#2514"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2515"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2516"
+msgstr "Preporučite za kompjuter?"
+
+msgid "PROPERTY_TRANSLATION#2517"
+msgstr "Frekvencija memorije"
+
+msgid "PROPERTY_TRANSLATION#2518"
+msgstr "Kapacitet memorije"
+
+msgid "PROPERTY_TRANSLATION#2519"
+msgstr "Konfighoz ajánlja ?"
+
+msgid "PROPERTY_TRANSLATION#2520"
+msgstr "Preporučite za kompjuter?"
+
+msgid "PROPERTY_TRANSLATION#2521"
+msgstr "Radni takt"
+
+msgid "PROPERTY_TRANSLATION#2522"
+msgstr "csatlakozó KULCS"
+
+msgid "PROPERTY_TRANSLATION#2523"
+msgstr "csatlakozó külsõ KULCS"
+
+msgid "PROPERTY_TRANSLATION#2524"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#2525"
+msgstr "Veličina torbe"
+
+msgid "PROPERTY_TRANSLATION#2526"
+msgstr "Želite i pendrive?"
+
+msgid "PROPERTY_TRANSLATION#2527"
+msgstr "Želite i numeričku tipkovicu?"
+
+msgid "PROPERTY_TRANSLATION#2528"
+msgstr "Želite web kameru pored?"
+
+msgid "PROPERTY_TRANSLATION#2529"
+msgstr "Želite vanjski HDD?"
+
+msgid "PROPERTY_TRANSLATION#2530"
+msgstr "Želite Lensington bravu?"
+
+msgid "PROPERTY_TRANSLATION#2531"
+msgstr "Želite i slušalice s mikrofonom?"
+
+msgid "PROPERTY_TRANSLATION#2532"
+msgstr "Pristup internetu?"
+
+msgid "PROPERTY_TRANSLATION#2533"
+msgstr "Želite proširenje jamstva?"
+
+msgid "PROPERTY_TRANSLATION#2534"
+msgstr "Želite USB dodatak?"
+
+msgid "PROPERTY_TRANSLATION#2535"
+msgstr "Miš pored?"
+
+msgid "PROPERTY_TRANSLATION#2536"
+msgstr "Želite vanjski ODD?"
+
+msgid "PROPERTY_TRANSLATION#2537"
+msgstr "Softver?"
+
+msgid "PROPERTY_TRANSLATION#2538"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#2539"
+msgstr "Kapacitet tvrodg diska"
+
+msgid "PROPERTY_TRANSLATION#2540"
+msgstr "Tip procesora"
+
+msgid "PROPERTY_TRANSLATION#2541"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#2542"
+msgstr "grafička kartica"
+
+msgid "PROPERTY_TRANSLATION#2543"
+msgstr "Želite platno pored?"
+
+msgid "PROPERTY_TRANSLATION#2544"
+msgstr "Jačina svjetlosti"
+
+msgid "PROPERTY_TRANSLATION#2545"
+msgstr "Za print server?"
+
+msgid "PROPERTY_TRANSLATION#2546"
+msgstr "Fotópapírt hozzá KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2547"
+msgstr "Másolópapírt hozzá (NE BÁNTSD)"
+
+msgid "PROPERTY_TRANSLATION#2548"
+msgstr "Želite USB kabel?"
+
+msgid "PROPERTY_TRANSLATION#2549"
+msgstr "Sučelje"
+
+msgid "PROPERTY_TRANSLATION#2550"
+msgstr "Nudite za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2551"
+msgstr "Tip zaslona"
+
+msgid "PROPERTY_TRANSLATION#2552"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#2553"
+msgstr "Vrijeme odziva"
+
+msgid "PROPERTY_TRANSLATION#2554"
+msgstr "Zoom (optički)"
+
+msgid "PROPERTY_TRANSLATION#2555"
+msgstr "tip"
+
+msgid "PROPERTY_TRANSLATION#2556"
+msgstr "Namjenjen zvučnik pojačalo"
+
+msgid "PROPERTY_TRANSLATION#2557"
+msgstr "Zaštitna folija za mobitel/tablet"
+
+msgid "PROPERTY_TRANSLATION#2558"
+msgstr "nudite za fotoaparat"
+
+msgid "PROPERTY_TRANSLATION#2559"
+msgstr "Player kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2560"
+msgstr "Felvevõ kompatibilitás - KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2561"
+msgstr "Kombo kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2563"
+msgstr "Namjenjen za konfiguraciju?"
+
+msgid "PROPERTY_TRANSLATION#2564"
+msgstr "Veličina torbe"
+
+msgid "PROPERTY_TRANSLATION#2565"
+msgstr "Nudite za projektor?"
+
+msgid "PROPERTY_TRANSLATION#2566"
+msgstr "S mikrofonom"
+
+msgid "PROPERTY_TRANSLATION#2567"
+msgstr "Osjetljivost (dB)"
+
+msgid "PROPERTY_TRANSLATION#2568"
+msgstr "Hangfalszett ajánlás - KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2569"
+msgstr "LCD TV - KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2570"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2571"
+msgstr "Plazma TV - KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2572"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2573"
+msgstr "Preporučujete za mobitel?"
+
+msgid "PROPERTY_TRANSLATION#2574"
+msgstr "TV tuner"
+
+msgid "PROPERTY_TRANSLATION#2575"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2576"
+msgstr "TV tuner"
+
+msgid "PROPERTY_TRANSLATION#2577"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2578"
+msgstr "nudite za auto hifi"
+
+msgid "PROPERTY_TRANSLATION#2579"
+msgstr "nudite za autohifi"
+
+msgid "PROPERTY_TRANSLATION#2580"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2581"
+msgstr "Predlažete za procesor?"
+
+msgid "PROPERTY_TRANSLATION#2582"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#2583"
+msgstr "želite napaljanje?"
+
+msgid "PROPERTY_TRANSLATION#2584"
+msgstr "Nudite za druge proizvode?"
+
+msgid "PROPERTY_TRANSLATION#2585"
+msgstr "notebookhoz ajánlja KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2586"
+msgstr "Nudite za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2587"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2588"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2589"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2590"
+msgstr "nyomtatóhoz ajánlás KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2591"
+msgstr "za objektiv"
+
+msgid "PROPERTY_TRANSLATION#2592"
+msgstr "Nudite za mobitel? (Univerzalan)"
+
+msgid "PROPERTY_TRANSLATION#2593"
+msgstr "Nudite za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2594"
+msgstr "Nudite za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2595"
+msgstr "Csatlakozó KULCShoz!"
+
+msgid "PROPERTY_TRANSLATION#2596"
+msgstr "Za print server?"
+
+msgid "PROPERTY_TRANSLATION#2597"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2598"
+msgstr "broj LAN portova"
+
+msgid "PROPERTY_TRANSLATION#2599"
+msgstr "USB priključak"
+
+msgid "PROPERTY_TRANSLATION#2600"
+msgstr "brzina na kabelu"
+
+msgid "PROPERTY_TRANSLATION#2601"
+msgstr "Csatlakozó KULCShoz!"
+
+msgid "PROPERTY_TRANSLATION#2602"
+msgstr "Povezivost"
+
+msgid "PROPERTY_TRANSLATION#2603"
+msgstr "Nudite za projektor?"
+
+msgid "PROPERTY_TRANSLATION#2604"
+msgstr "Kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2605"
+msgstr "Kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2606"
+msgstr "Kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2607"
+msgstr "kućno kino"
+
+msgid "PROPERTY_TRANSLATION#2608"
+msgstr "Mikrovalna snaga"
+
+msgid "PROPERTY_TRANSLATION#2609"
+msgstr "Gril snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2610"
+msgstr "nudite za DVD"
+
+msgid "PROPERTY_TRANSLATION#2611"
+msgstr "Nudite za Blu-ray film?"
+
+msgid "PROPERTY_TRANSLATION#2612"
+msgstr "Predlažete za NAS?"
+
+msgid "PROPERTY_TRANSLATION#2613"
+msgstr "Komplett géphez ajánlja?"
+
+msgid "PROPERTY_TRANSLATION#2614"
+msgstr "Tip!"
+
+msgid "PROPERTY_TRANSLATION#2615"
+msgstr "Mikrofonos fulhallgatot hozza?"
+
+msgid "PROPERTY_TRANSLATION#2616"
+msgstr "Želite i bluetooth uređaj?"
+
+msgid "PROPERTY_TRANSLATION#2617"
+msgstr "Želite napuniti karticu?"
+
+msgid "PROPERTY_TRANSLATION#2618"
+msgstr "iPad,iPhone kabel,dock?"
+
+msgid "PROPERTY_TRANSLATION#2619"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#2620"
+msgstr "unutrašnja memorija (RAM)"
+
+msgid "PROPERTY_TRANSLATION#2621"
+msgstr "ROM"
+
+msgid "PROPERTY_TRANSLATION#2622"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#2623"
+msgstr "Operativni sustav"
+
+msgid "PROPERTY_TRANSLATION#2624"
+msgstr "Rezolucija zadnje kamere"
+
+msgid "PROPERTY_TRANSLATION#2625"
+msgstr "Kabel za punjenje"
+
+msgid "PROPERTY_TRANSLATION#2626"
+msgstr "Volumen hlađenja"
+
+msgid "PROPERTY_TRANSLATION#2627"
+msgstr "Fagyasztótér űrtartalma"
+
+msgid "PROPERTY_TRANSLATION#2628"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#2631"
+msgstr "Típus KULCS! (porzsákhoz)"
+
+msgid "PROPERTY_TRANSLATION#2632"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2633"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2634"
+msgstr "Spremnik vode (ml)"
+
+msgid "PROPERTY_TRANSLATION#2635"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2636"
+msgstr "potrošnja"
+
+msgid "PROPERTY_TRANSLATION#2637"
+msgstr "volumen"
+
+msgid "PROPERTY_TRANSLATION#2638"
+msgstr "kapacitet šalica"
+
+msgid "PROPERTY_TRANSLATION#2639"
+msgstr "Navigacijski softver s njim?"
+
+msgid "PROPERTY_TRANSLATION#2640"
+msgstr "Zaslon"
+
+msgid "PROPERTY_TRANSLATION#2641"
+msgstr "Procesor"
+
+msgid "PROPERTY_TRANSLATION#2642"
+msgstr "Xbox feltöltőkártyát hozzá?"
+
+msgid "PROPERTY_TRANSLATION#2643"
+msgstr "Nudite za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2644"
+msgstr "veličina"
+
+msgid "PROPERTY_TRANSLATION#2645"
+msgstr "Nudite za Notebook?"
+
+msgid "PROPERTY_TRANSLATION#2646"
+msgstr "Kompatibilni mrežni adapteri"
+
+msgid "PROPERTY_TRANSLATION#2647"
+msgstr "Želite i Sustain pedalu?"
+
+msgid "PROPERTY_TRANSLATION#2648"
+msgstr "Želite i stativu?"
+
+msgid "PROPERTY_TRANSLATION#2649"
+msgstr "Preporučite za sintisajzer?"
+
+msgid "PROPERTY_TRANSLATION#2650"
+msgstr "Preporučite za sintisajzer?"
+
+msgid "PROPERTY_TRANSLATION#2651"
+msgstr "Preporučite za sintisajzer?"
+
+msgid "PROPERTY_TRANSLATION#2652"
+msgstr "Fotópapírhoz ajánlja?"
+
+msgid "PROPERTY_TRANSLATION#2653"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2654"
+msgstr "Maksimalno opterećenje"
+
+msgid "PROPERTY_TRANSLATION#2655"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2656"
+msgstr "kapacitet ulja (l)"
+
+msgid "PROPERTY_TRANSLATION#2657"
+msgstr "Preporučujete za mobitel?"
+
+msgid "PROPERTY_TRANSLATION#2658"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2659"
+msgstr "volumen (l)"
+
+msgid "PROPERTY_TRANSLATION#2660"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2661"
+msgstr "spremnik voća"
+
+msgid "PROPERTY_TRANSLATION#2662"
+msgstr "spremik tekućina"
+
+msgid "PROPERTY_TRANSLATION#2663"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2664"
+msgstr "volumen (ml)"
+
+msgid "PROPERTY_TRANSLATION#2665"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2666"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2667"
+msgstr "volumen (l)"
+
+msgid "PROPERTY_TRANSLATION#2668"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2669"
+msgstr "naziv"
+
+msgid "PROPERTY_TRANSLATION#2670"
+msgstr "Aparat za kavu"
+
+msgid "PROPERTY_TRANSLATION#2671"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2672"
+msgstr "kruh za peć"
+
+msgid "PROPERTY_TRANSLATION#2673"
+msgstr "programi"
+
+msgid "PROPERTY_TRANSLATION#2674"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2675"
+msgstr "kapacitet"
+
+msgid "PROPERTY_TRANSLATION#2676"
+msgstr "Preporučujete za mobitel?"
+
+msgid "PROPERTY_TRANSLATION#2677"
+msgstr "dvd player"
+
+msgid "PROPERTY_TRANSLATION#2678"
+msgstr "Dvd snimač"
+
+msgid "PROPERTY_TRANSLATION#2679"
+msgstr "Kombó - KULCS!"
+
+msgid "PROPERTY_TRANSLATION#2680"
+msgstr "kućno kino"
+
+msgid "PROPERTY_TRANSLATION#2681"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2682"
+msgstr "volumen (l)"
+
+msgid "PROPERTY_TRANSLATION#2683"
+msgstr "preporučite za objektiv?"
+
+msgid "PROPERTY_TRANSLATION#2684"
+msgstr "nudite za pišač?"
+
+msgid "PROPERTY_TRANSLATION#2685"
+msgstr "Želite i pendrive?"
+
+msgid "PROPERTY_TRANSLATION#2686"
+msgstr "Žeilte i DVD player?"
+
+msgid "PROPERTY_TRANSLATION#2687"
+msgstr "Želite i DVD snimač?"
+
+msgid "PROPERTY_TRANSLATION#2688"
+msgstr "Želite i DVD video?"
+
+msgid "PROPERTY_TRANSLATION#2689"
+msgstr "Želite kućno kino pored?"
+
+msgid "PROPERTY_TRANSLATION#2690"
+msgstr "Može Blu-ray film pored?"
+
+msgid "PROPERTY_TRANSLATION#2691"
+msgstr "Želite i multimedijalni player?"
+
+msgid "PROPERTY_TRANSLATION#2692"
+msgstr "Želite i slušalice?"
+
+msgid "PROPERTY_TRANSLATION#2693"
+msgstr "Energetski vrijednost"
+
+msgid "PROPERTY_TRANSLATION#2694"
+msgstr "želiterouter?"
+
+msgid "PROPERTY_TRANSLATION#2695"
+msgstr "HDTV prijemnik uz njega?"
+
+msgid "PROPERTY_TRANSLATION#2696"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#2697"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#2698"
+msgstr "Frekvencija osvježavanja"
+
+msgid "PROPERTY_TRANSLATION#2699"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2700"
+msgstr "Blu-ray film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2701"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2702"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2703"
+msgstr "DVD film može pored?"
+
+msgid "PROPERTY_TRANSLATION#2704"
+msgstr "Može i Pendrive?"
+
+msgid "PROPERTY_TRANSLATION#2705"
+msgstr "Vanjski tvrdi disk pored?"
+
+msgid "PROPERTY_TRANSLATION#2706"
+msgstr "Vanjski optički pogon pored?"
+
+msgid "PROPERTY_TRANSLATION#2707"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2708"
+msgstr "Preporučujete za TV?"
+
+msgid "PROPERTY_TRANSLATION#2709"
+msgstr "Brzina procesora"
+
+msgid "PROPERTY_TRANSLATION#2710"
+msgstr "broj utora za unutrašnje HDD"
+
+msgid "PROPERTY_TRANSLATION#2711"
+msgstr "Kakav HDD uz uređaj?"
+
+msgid "PROPERTY_TRANSLATION#2712"
+msgstr "za koji telefon preporučite?"
+
+msgid "PROPERTY_TRANSLATION#2713"
+msgstr "Proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#2714"
+msgstr "Slušalice sa mikrofonom?"
+
+msgid "PROPERTY_TRANSLATION#2715"
+msgstr "Hangfalat hozzá?"
+
+msgid "PROPERTY_TRANSLATION#2716"
+msgstr "Kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2717"
+msgstr "KULCS-Apple kábelt,dokkolót hozzá?"
+
+msgid "PROPERTY_TRANSLATION#2718"
+msgstr "Veličina ekrana"
+
+msgid "PROPERTY_TRANSLATION#2719"
+msgstr "unutrašnja memorija"
+
+msgid "PROPERTY_TRANSLATION#2720"
+msgstr "Operativni sistem"
+
+msgid "PROPERTY_TRANSLATION#2721"
+msgstr "Frekvencija procesora"
+
+msgid "PROPERTY_TRANSLATION#2722"
+msgstr "Vrsta procesora"
+
+msgid "PROPERTY_TRANSLATION#2723"
+msgstr "Ugrađena kamera"
+
+msgid "PROPERTY_TRANSLATION#2724"
+msgstr "prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#2725"
+msgstr "Nyomtatóhoz ajánlja (NE PISZKÁLD)"
+
+msgid "PROPERTY_TRANSLATION#2726"
+msgstr "Vijek trajanja"
+
+msgid "PROPERTY_TRANSLATION#2727"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2728"
+msgstr "Koliko komada?"
+
+msgid "PROPERTY_TRANSLATION#2729"
+msgstr "Koliko figurica dolazi u kutiji?"
+
+msgid "PROPERTY_TRANSLATION#2730"
+msgstr "Kompatibilan"
+
+msgid "PROPERTY_TRANSLATION#2731"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#2732"
+msgstr "KULCSO-hoz beállítás"
+
+msgid "PROPERTY_TRANSLATION#2733"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2734"
+msgstr "Broj okretaja u praznom hodu"
+
+msgid "PROPERTY_TRANSLATION#2735"
+msgstr "Promjer ploče"
+
+msgid "PROPERTY_TRANSLATION#2736"
+msgstr "Max. Oscilacije"
+
+msgid "PROPERTY_TRANSLATION#2737"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2738"
+msgstr "Dubina reza (mm)"
+
+msgid "PROPERTY_TRANSLATION#2739"
+msgstr "Kapacitet baterije (Ah)"
+
+msgid "PROPERTY_TRANSLATION#2740"
+msgstr "Max snaga Nm"
+
+msgid "PROPERTY_TRANSLATION#2741"
+msgstr "Kapacitet baterije (mAh)"
+
+msgid "PROPERTY_TRANSLATION#2742"
+msgstr "pakiranje (kom)"
+
+msgid "PROPERTY_TRANSLATION#2743"
+msgstr "promjer"
+
+msgid "PROPERTY_TRANSLATION#2744"
+msgstr "duljina (mm)"
+
+msgid "PROPERTY_TRANSLATION#2745"
+msgstr "Pakiranje (kom)"
+
+msgid "PROPERTY_TRANSLATION#2746"
+msgstr "promjer diska"
+
+msgid "PROPERTY_TRANSLATION#2747"
+msgstr "maksimalni broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#2748"
+msgstr "promjer diska"
+
+msgid "PROPERTY_TRANSLATION#2749"
+msgstr "maksimalni broj okretaja"
+
+msgid "PROPERTY_TRANSLATION#2750"
+msgstr "Pakiranje (kom)"
+
+msgid "PROPERTY_TRANSLATION#2751"
+msgstr "Pakiranje (kom)"
+
+msgid "PROPERTY_TRANSLATION#2752"
+msgstr "Pakiranje (kom)"
+
+msgid "PROPERTY_TRANSLATION#2753"
+msgstr "Max. Tlak"
+
+msgid "PROPERTY_TRANSLATION#2754"
+msgstr "Prijenos vode (l/s)"
+
+msgid "PROPERTY_TRANSLATION#2755"
+msgstr "učinak priključka (kw)"
+
+msgid "PROPERTY_TRANSLATION#2756"
+msgstr "veličina mm"
+
+msgid "PROPERTY_TRANSLATION#2757"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2758"
+msgstr "širina rezanja"
+
+msgid "PROPERTY_TRANSLATION#2759"
+msgstr "Volumen prikupljanja trave"
+
+msgid "PROPERTY_TRANSLATION#2760"
+msgstr "Snaga motora (W)"
+
+msgid "PROPERTY_TRANSLATION#2761"
+msgstr "promjer rezanja"
+
+msgid "PROPERTY_TRANSLATION#2762"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#2763"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#2764"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#2765"
+msgstr "Brzina čitanja"
+
+msgid "PROPERTY_TRANSLATION#2766"
+msgstr "brzina ispisa"
+
+msgid "PROPERTY_TRANSLATION#2767"
+msgstr "Remen? (samo Apple)"
+
+msgid "PROPERTY_TRANSLATION#2768"
+msgstr "Prilagođen za Xbox?"
+
+msgid "PROPERTY_TRANSLATION#10001"
+msgstr "Proizvođač"
+
+msgid "PROPERTY_TRANSLATION#10002"
+msgstr "Masa"
+
+msgid "PROPERTY_TRANSLATION#10003"
+msgstr "Dužina (dubina)"
+
+msgid "PROPERTY_TRANSLATION#10004"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#10005"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#10006"
+msgstr "Garancija"
+
+msgid "PROPERTY_TRANSLATION#10100"
+msgstr "Kompatibilis eszközök"
+
+msgid "PROPERTY_TRANSLATION#10101"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#10102"
+msgstr "Veličina (EUR)"
+
+msgid "PROPERTY_TRANSLATION#112358"
+msgstr "Dostupne boje"
+
+msgid "PROPERTY_TRANSLATION#265078"
+msgstr "Index ažuriranja slika"
+
+msgid "PROPERTY_TRANSLATION#265480"
+msgstr "Index ažuriranja slika"
+
+msgid "PROPERTY_TRANSLATION#265481"
+msgstr "Index ažuriranja slika"
+
+msgid "PROPERTY_TRANSLATION#471847"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#471848"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#471849"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#519045"
+msgstr "Max. opterećenje"
+
+msgid "PROPERTY_TRANSLATION#519047"
+msgstr "Max domet"
+
+msgid "PROPERTY_TRANSLATION#519048"
+msgstr "Max. brzina"
+
+msgid "PROPERTY_TRANSLATION#519049"
+msgstr "Veličina kotača"
+
+msgid "PROPERTY_TRANSLATION#519054"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#550828"
+msgstr "Mjesto"
+
+msgid "PROPERTY_TRANSLATION#550832"
+msgstr "Namjena za"
+
+msgid "PROPERTY_TRANSLATION#550834"
+msgstr "Broj prostora"
+
+msgid "PROPERTY_TRANSLATION#550835"
+msgstr "Típus"
+
+msgid "PROPERTY_TRANSLATION#550836"
+msgstr "Típus"
+
+msgid "PROPERTY_TRANSLATION#550839"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#550840"
+msgstr "Spol"
+
+msgid "PROPERTY_TRANSLATION#550841"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#550842"
+msgstr "Volumen"
+
+msgid "PROPERTY_TRANSLATION#551717"
+msgstr "Num_teszt_1"
+
+msgid "PROPERTY_TRANSLATION#551718"
+msgstr "Num_teszt_2"
+
+msgid "PROPERTY_TRANSLATION#551967"
+msgstr "Tehnologija ekrana"
+
+msgid "PROPERTY_TRANSLATION#557696"
+msgstr "Egyedi termékajánlóhoz"
+
+msgid "PROPERTY_TRANSLATION#558396"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#558398"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#558399"
+msgstr "Típus"
+
+msgid "PROPERTY_TRANSLATION#558511"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#558512"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#564768"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#565675"
+msgstr "Sport"
+
+msgid "PROPERTY_TRANSLATION#576024"
+msgstr "Strana"
+
+msgid "PROPERTY_TRANSLATION#576025"
+msgstr "Izdavač"
+
+msgid "PROPERTY_TRANSLATION#581391"
+msgstr "Vanjsku bateriju?"
+
+msgid "PROPERTY_TRANSLATION#636117"
+msgstr "Tip filtera"
+
+msgid "PROPERTY_TRANSLATION#636618"
+msgstr "unutarnji / vanjski"
+
+msgid "PROPERTY_TRANSLATION#636622"
+msgstr "unutarnji / vanjski"
+
+msgid "PROPERTY_TRANSLATION#637836"
+msgstr "Prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#637837"
+msgstr "Prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#638287"
+msgstr "Vrsta baterije"
+
+msgid "PROPERTY_TRANSLATION#649678"
+msgstr "Sezona"
+
+msgid "PROPERTY_TRANSLATION#649679"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#649682"
+msgstr "Dijametar"
+
+msgid "PROPERTY_TRANSLATION#649683"
+msgstr "Učinkovitost goriva"
+
+msgid "PROPERTY_TRANSLATION#652848"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#652851"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#652852"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#653732"
+msgstr "Kapacitet pečenja"
+
+msgid "PROPERTY_TRANSLATION#653737"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#653738"
+msgstr "Mjerenje"
+
+msgid "PROPERTY_TRANSLATION#653752"
+msgstr "Platforma"
+
+msgid "PROPERTY_TRANSLATION#664908"
+msgstr "Ažuriranje slika"
+
+msgid "PROPERTY_TRANSLATION#664926"
+msgstr "Ažuriranje slika"
+
+msgid "PROPERTY_TRANSLATION#664928"
+msgstr "NFC"
+
+msgid "PROPERTY_TRANSLATION#664930"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#664952"
+msgstr "Posebna svojstva"
+
+msgid "PROPERTY_TRANSLATION#664953"
+msgstr "Podaci"
+
+msgid "PROPERTY_TRANSLATION#669693"
+msgstr "Kabel"
+
+msgid "PROPERTY_TRANSLATION#669704"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#669707"
+msgstr "Količina"
+
+msgid "PROPERTY_TRANSLATION#674373"
+msgstr "Utor za memorijsku karticu"
+
+msgid "PROPERTY_TRANSLATION#674445"
+msgstr "Podloga za miš"
+
+msgid "PROPERTY_TRANSLATION#675526"
+msgstr "Dodatna oprema"
+
+msgid "PROPERTY_TRANSLATION#675536"
+msgstr "Notebook torba/hladnjak"
+
+msgid "PROPERTY_TRANSLATION#676477"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#677831"
+msgstr "Periferiju za računalo"
+
+msgid "PROPERTY_TRANSLATION#677836"
+msgstr "Vrsta prekidača"
+
+msgid "PROPERTY_TRANSLATION#677841"
+msgstr "Tip senzora"
+
+msgid "PROPERTY_TRANSLATION#677847"
+msgstr "Preporučeni kabel"
+
+msgid "PROPERTY_TRANSLATION#678775"
+msgstr "Preporučen za LCD"
+
+msgid "PROPERTY_TRANSLATION#694089"
+msgstr "Kompatibilnost"
+
+msgid "PROPERTY_TRANSLATION#700790"
+msgstr "Maks. opterećenje"
+
+msgid "PROPERTY_TRANSLATION#701469"
+msgstr "Procesor model"
+
+msgid "PROPERTY_TRANSLATION#701472"
+msgstr "Prednja Kamera"
+
+msgid "PROPERTY_TRANSLATION#701473"
+msgstr "Stražnja Kamera"
+
+msgid "PROPERTY_TRANSLATION#701476"
+msgstr "Operativni sistem"
+
+msgid "PROPERTY_TRANSLATION#702720"
+msgstr "Mogućnost proširenje memorije"
+
+msgid "PROPERTY_TRANSLATION#702722"
+msgstr "Unutarnja memorija (RAM)"
+
+msgid "PROPERTY_TRANSLATION#702723"
+msgstr "Interna memorija (ROM)"
+
+msgid "PROPERTY_TRANSLATION#702724"
+msgstr "Tip zaslona"
+
+msgid "PROPERTY_TRANSLATION#702725"
+msgstr "Tip WLAN-a"
+
+msgid "PROPERTY_TRANSLATION#702726"
+msgstr "Tip baterije"
+
+msgid "PROPERTY_TRANSLATION#702727"
+msgstr "Kapacitet baterije"
+
+msgid "PROPERTY_TRANSLATION#702738"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#702739"
+msgstr "Materijal zadnje maske"
+
+msgid "PROPERTY_TRANSLATION#715521"
+msgstr "memorija"
+
+msgid "PROPERTY_TRANSLATION#715522"
+msgstr "Vrsta upotrebe"
+
+msgid "PROPERTY_TRANSLATION#715523"
+msgstr "Operacijski sustav"
+
+msgid "PROPERTY_TRANSLATION#715526"
+msgstr "Grafička kartica"
+
+msgid "PROPERTY_TRANSLATION#715527"
+msgstr "Površina zaslona"
+
+msgid "PROPERTY_TRANSLATION#715528"
+msgstr "Procesor"
+
+msgid "PROPERTY_TRANSLATION#715529"
+msgstr "Broj USB porta"
+
+msgid "PROPERTY_TRANSLATION#715556"
+msgstr "Specifikacija"
+
+msgid "PROPERTY_TRANSLATION#715557"
+msgstr "Broj čelija baterije"
+
+msgid "PROPERTY_TRANSLATION#715558"
+msgstr "Tip memorije"
+
+msgid "PROPERTY_TRANSLATION#715559"
+msgstr "Veličina zaslona"
+
+msgid "PROPERTY_TRANSLATION#718386"
+msgstr "Dijagonala"
+
+msgid "PROPERTY_TRANSLATION#718387"
+msgstr "Maksimalna rezolucija"
+
+msgid "PROPERTY_TRANSLATION#718388"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#718389"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#718390"
+msgstr "Model"
+
+msgid "PROPERTY_TRANSLATION#718391"
+msgstr "Broj HDMI priključka"
+
+msgid "PROPERTY_TRANSLATION#718392"
+msgstr "Broj USB portova"
+
+msgid "PROPERTY_TRANSLATION#718451"
+msgstr "Tip ekrana"
+
+msgid "PROPERTY_TRANSLATION#718878"
+msgstr "Funkcije"
+
+msgid "PROPERTY_TRANSLATION#720870"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#720876"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#720877"
+msgstr "Ime igrice"
+
+msgid "PROPERTY_TRANSLATION#722581"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#782410"
+msgstr "Interna memorija	 (ROM)"
+
+msgid "PROPERTY_TRANSLATION#782411"
+msgstr "RAM memorija"
+
+msgid "PROPERTY_TRANSLATION#782412"
+msgstr "Kapacitet akumulatora"
+
+msgid "PROPERTY_TRANSLATION#810771"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#810773"
+msgstr "Dužina kabela"
+
+msgid "PROPERTY_TRANSLATION#810774"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#810775"
+msgstr "Priključci"
+
+msgid "PROPERTY_TRANSLATION#810778"
+msgstr "Jačina struje"
+
+msgid "PROPERTY_TRANSLATION#810781"
+msgstr "Izlazni napon"
+
+msgid "PROPERTY_TRANSLATION#810797"
+msgstr "Broj USB-a na auto punjaču"
+
+msgid "PROPERTY_TRANSLATION#825333"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#825334"
+msgstr "Istaknuta svojstva"
+
+msgid "PROPERTY_TRANSLATION#825339"
+msgstr "Za glačalo"
+
+msgid "PROPERTY_TRANSLATION#825343"
+msgstr "Kiegészítő ajánló KULCS!"
+
+msgid "PROPERTY_TRANSLATION#835279"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#835281"
+msgstr "Broj bazena"
+
+msgid "PROPERTY_TRANSLATION#835282"
+msgstr "Kapač"
+
+msgid "PROPERTY_TRANSLATION#835283"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#835285"
+msgstr "Dubokost"
+
+msgid "PROPERTY_TRANSLATION#835287"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#835308"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#835319"
+msgstr "Boja"
+
+msgid "PROPERTY_TRANSLATION#843252"
+msgstr "Broj kanala"
+
+msgid "PROPERTY_TRANSLATION#843254"
+msgstr "Bežični povezivost"
+
+msgid "PROPERTY_TRANSLATION#843255"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#843256"
+msgstr "Frekvencija"
+
+msgid "PROPERTY_TRANSLATION#843260"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#843261"
+msgstr "Podržani formati"
+
+msgid "PROPERTY_TRANSLATION#843262"
+msgstr "Wireless subwoofer"
+
+msgid "PROPERTY_TRANSLATION#843264"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#843272"
+msgstr "Preporučite za  TV"
+
+msgid "PROPERTY_TRANSLATION#843302"
+msgstr "Broj kanala"
+
+msgid "PROPERTY_TRANSLATION#844528"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#856909"
+msgstr "Trajanje baterije"
+
+msgid "PROPERTY_TRANSLATION#856910"
+msgstr "Trajanje baterije"
+
+msgid "PROPERTY_TRANSLATION#856911"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#856913"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#856915"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#856919"
+msgstr "Domet"
+
+msgid "PROPERTY_TRANSLATION#856924"
+msgstr "Kapacitet baterije"
+
+msgid "PROPERTY_TRANSLATION#856926"
+msgstr "Svojstva"
+
+msgid "PROPERTY_TRANSLATION#856934"
+msgstr "Snaga (W)"
+
+msgid "PROPERTY_TRANSLATION#861839"
+msgstr "Godišnja potrošnja energije"
+
+msgid "PROPERTY_TRANSLATION#861847"
+msgstr "Svojstva"
+
+msgid "PROPERTY_TRANSLATION#861849"
+msgstr "Broj vrata"
+
+msgid "PROPERTY_TRANSLATION#861852"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#861857"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#861858"
+msgstr "Dubokost"
+
+msgid "PROPERTY_TRANSLATION#861865"
+msgstr "Razina buke"
+
+msgid "PROPERTY_TRANSLATION#861897"
+msgstr "Buka"
+
+msgid "PROPERTY_TRANSLATION#871637"
+msgstr "Dodati miš"
+
+msgid "PROPERTY_TRANSLATION#874529"
+msgstr "Posebna svojstva"
+
+msgid "PROPERTY_TRANSLATION#874560"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#874562"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#874571"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#874573"
+msgstr "Visočina"
+
+msgid "PROPERTY_TRANSLATION#874589"
+msgstr "Razina buke, unutarnja jedinica"
+
+msgid "PROPERTY_TRANSLATION#874590"
+msgstr "Nivo buke vanjske jedinice"
+
+msgid "PROPERTY_TRANSLATION#874592"
+msgstr "Tip filtera"
+
+msgid "PROPERTY_TRANSLATION#875242"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#875243"
+msgstr "Izdanje"
+
+msgid "PROPERTY_TRANSLATION#875244"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#875766"
+msgstr "Upravljanje"
+
+msgid "PROPERTY_TRANSLATION#875768"
+msgstr "Volumen"
+
+msgid "PROPERTY_TRANSLATION#875769"
+msgstr "Podaci"
+
+msgid "PROPERTY_TRANSLATION#875771"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#875772"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#875775"
+msgstr "Dubina"
+
+msgid "PROPERTY_TRANSLATION#875784"
+msgstr "Sredstvo za čišćenje"
+
+msgid "PROPERTY_TRANSLATION#878119"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#878120"
+msgstr "Kamin"
+
+msgid "PROPERTY_TRANSLATION#878123"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#878125"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#878130"
+msgstr "Promjer dimnjaka"
+
+msgid "PROPERTY_TRANSLATION#878133"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#878134"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#878138"
+msgstr "Dubina"
+
+msgid "PROPERTY_TRANSLATION#878139"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#878141"
+msgstr "Snaga (zrak)"
+
+msgid "PROPERTY_TRANSLATION#878143"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#878144"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#878145"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#878146"
+msgstr "Dubokost"
+
+msgid "PROPERTY_TRANSLATION#878147"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#878152"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#878154"
+msgstr "Širina"
+
+msgid "PROPERTY_TRANSLATION#878155"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#878156"
+msgstr "Dubokost"
+
+msgid "PROPERTY_TRANSLATION#878157"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#878158"
+msgstr "Veličina pekača"
+
+msgid "PROPERTY_TRANSLATION#883739"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#895870"
+msgstr "Mateijal remena"
+
+msgid "PROPERTY_TRANSLATION#895872"
+msgstr "Materijal kućište"
+
+msgid "PROPERTY_TRANSLATION#895874"
+msgstr "Zaslon"
+
+msgid "PROPERTY_TRANSLATION#905272"
+msgstr "Veličina pelena:"
+
+msgid "PROPERTY_TRANSLATION#986605"
+msgstr "HDD"
+
+msgid "PROPERTY_TRANSLATION#986607"
+msgstr "Broj kontrolera"
+
+msgid "PROPERTY_TRANSLATION#1000154"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1000180"
+msgstr "Površina"
+
+msgid "PROPERTY_TRANSLATION#1003436"
+msgstr "Odabir dijagonale"
+
+msgid "PROPERTY_TRANSLATION#1009705"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1009709"
+msgstr "Snaga"
+
+msgid "PROPERTY_TRANSLATION#1009710"
+msgstr "Szélesség"
+
+msgid "PROPERTY_TRANSLATION#1009711"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#1009712"
+msgstr "Dubokost"
+
+msgid "PROPERTY_TRANSLATION#1009713"
+msgstr "Težina"
+
+msgid "PROPERTY_TRANSLATION#1011784"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#1017711"
+msgstr "Maximalna visina"
+
+msgid "PROPERTY_TRANSLATION#1017712"
+msgstr "Maximalna visina"
+
+msgid "PROPERTY_TRANSLATION#1023418"
+msgstr "Boja televizora"
+
+msgid "PROPERTY_TRANSLATION#1146984"
+msgstr "Optički pogon"
+
+msgid "PROPERTY_TRANSLATION#1147039"
+msgstr "Dodatna periferija"
+
+msgid "PROPERTY_TRANSLATION#1147043"
+msgstr "Izrada"
+
+msgid "PROPERTY_TRANSLATION#1164168"
+msgstr "Senzori"
+
+msgid "PROPERTY_TRANSLATION#1164169"
+msgstr "Trajanje baterije"
+
+msgid "PROPERTY_TRANSLATION#1164170"
+msgstr "Nivo buke"
+
+msgid "PROPERTY_TRANSLATION#1164171"
+msgstr "Važne značajke"
+
+msgid "PROPERTY_TRANSLATION#1164172"
+msgstr "Područje za čišćenje s jednom punjenjem"
+
+msgid "PROPERTY_TRANSLATION#1164175"
+msgstr "Trajanje baterije"
+
+msgid "PROPERTY_TRANSLATION#1164176"
+msgstr "Nivo buke"
+
+msgid "PROPERTY_TRANSLATION#1164178"
+msgstr "Volumen spremnika"
+
+msgid "PROPERTY_TRANSLATION#1171201"
+msgstr "Kapacitet"
+
+msgid "PROPERTY_TRANSLATION#1171203"
+msgstr "Priključak"
+
+msgid "PROPERTY_TRANSLATION#1321022"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#1574553"
+msgstr "Promjer ventilatora"
+
+msgid "PROPERTY_TRANSLATION#1574555"
+msgstr "Promjer ventilatora"
+
+msgid "PROPERTY_TRANSLATION#3993672"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#4267277"
+msgstr "Temperatura boje"
+
+msgid "PROPERTY_TRANSLATION#4593551"
+msgstr "Vrećica"
+
+msgid "PROPERTY_TRANSLATION#5067335"
+msgstr "Pakovanje (kapsule, pod)"
+
+msgid "PROPERTY_TRANSLATION#5067338"
+msgstr "Pakiranje (mljevena, zrno)"
+
+msgid "PROPERTY_TRANSLATION#5067342"
+msgstr "Pakiranje"
+
+msgid "PROPERTY_TRANSLATION#5067348"
+msgstr "Ukus, prženje"
+
+msgid "PROPERTY_TRANSLATION#6352250"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#6932386"
+msgstr "Podržani VESA standard"
+
+msgid "PROPERTY_TRANSLATION#6932387"
+msgstr "Opterećenje"
+
+msgid "PROPERTY_TRANSLATION#6932389"
+msgstr "Podržani VESA standard"
+
+msgid "PROPERTY_TRANSLATION#8591453"
+msgstr "Tip"
+
+msgid "PROPERTY_TRANSLATION#8591455"
+msgstr "Područje uporabe"
+
+msgid "PROPERTY_TRANSLATION#9522833"
+msgstr "Materijal"
+
+msgid "PROPERTY_TRANSLATION#9522839"
+msgstr "Izrada"
+
+msgid "PROPERTY_TRANSLATION#10386063"
+msgstr "Broj boca"
+
+msgid "PROPERTY_TRANSLATION#10386068"
+msgstr "Tip proizvoda"
+
+msgid "PROPERTY_TRANSLATION#10386069"
+msgstr "Volumen boce"
+
+msgid "PROPERTY_TRANSLATION#10386074"
+msgstr "Tip proizvoda"
+
+msgid "PROPERTY_TRANSLATION#10386081"
+msgstr "Dodatna preporuka"
+
+msgid "PROPERTY_TRANSLATION#10386084"
+msgstr "Volumen boce"
+
+msgid "PROPERTY_TRANSLATION#10541081"
+msgstr "Veličina pekača"
+
+msgid "PROPERTY_TRANSLATION#14558089"
+msgstr "Szélesség"
+
+msgid "PROPERTY_TRANSLATION#14558090"
+msgstr "Visina"
+
+msgid "PROPERTY_TRANSLATION#14558092"
+msgstr "Dubokost"
+
+msgid "PROPERTY_TRANSLATION#14558119"
+msgstr "Podaci"
+
+msgid "PROPERTY_TRANSLATION#15844873"
+msgstr "Kapacitet akumulatora"
+
+msgid "PROPERTY_TRANSLATION#15844881"
+msgstr "Važne značajke"
+
+msgid "PROPERTY_TRANSLATION#15844884"
+msgstr "Prijenos podataka"
+
+msgid "PROPERTY_TRANSLATION#15844888"
+msgstr "FPS vrijednost"
+
+msgid "PROPERTY_TRANSLATION#15844889"
+msgstr "Video snimanje"
+
+msgid "PROPERTY_TRANSLATION#15844894"
+msgstr "Preporuka za selfie štap / tripod"
+
+msgid "PROPERTY_TRANSLATION#16646646"
+msgstr "Preporuka za torbu"
+
+msgid "PROPERTY_TRANSLATION#16646649"
+msgstr "Veličina"
+
+msgid "PROPERTY_TRANSLATION#16646650"
+msgstr "Mikrofon"
+
+msgid "PROPERTY_TRANSLATION#25156989"
+msgstr "Veličina"
+
